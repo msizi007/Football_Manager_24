@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+{% block title %}<title>FM24-Inbox</title>{% endblock %}
+
+{% block css %}{% endblock %}
+
+{% block content %}
+<div>
+    {% if not messages %}
+        <h2>No Messages!</h2>
+    {% endif %}
+</div>
+{% endblock %}
+
+{% block js %}{% endblock %}
