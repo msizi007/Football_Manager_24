@@ -1,3 +1,6 @@
+from datetime import date
+from all_enums import Position, Nation, Club, PlayerRole, Reputation, Attributes
+
 # Attributes
 # name: str  
 # position: Enum[Position]
@@ -17,12 +20,18 @@
 # attributes: PlayerAttributes
 # reputation: Enum[Reputation]
 
+# ALL POSITIONS
+
+
 class Player:
-    def __init__(self, name, position, secondary_positions, age, DOB, is_active, is_international_player, international_caps, international_goals, nation, club, value, max_value, wages_per_week, club_role, attributes, reputation):
+    def __init__(self, name: str, position: Position, secondary_positions: list[Position],
+        DOB: date, is_active: bool, is_international_player: bool, international_caps: int,
+        international_goals: int, nation: Nation, club: Club, value: int, max_value: int,
+        wages_per_week: float, role: PlayerRole, attributes: Attributes, reputation: Reputation):
         self.name = name
         self.position = position
         self.secondary_positions = secondary_positions
-        self.age = age
+        self.age = date.now().year - DOB.year
         self.DOB = DOB
         self.is_active = is_active
         self.is_international_player = is_international_player
@@ -33,6 +42,6 @@ class Player:
         self.value = value
         self.max_value = max_value
         self.wages_per_week = wages_per_week
-        self.club_role = club_role
+        self.role = role
         self.attributes = attributes
         self.reputation = reputation
