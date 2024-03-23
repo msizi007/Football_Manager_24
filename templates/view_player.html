@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block title %}<title>FM24-{{player.name}} Profile</title>{% endblock %}
+
+{% block css %}{% endblock %}
+
+{% block content %}
+<div>
+    <img src="{{player.image_link}}" alt="{{player.name}}-profile-pic">
+    <h2>Name: {{player.name}}</h2>
+</div>
+{% endblock %}
+
+{% block js %}{% endblock %}
