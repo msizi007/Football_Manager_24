@@ -62,5 +62,5 @@ record_league_stats()
 with open('league_analyses.json', 'w') as file:
     json.dump(LEAGUE_ANALYSIS, file, indent=4)
 
-generate_csv_data()
+generate_csv_data(ALL_CLUBS)
 ALL_PLAYERS = ALL_PLAYERS

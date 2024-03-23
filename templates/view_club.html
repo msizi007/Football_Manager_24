@@ -2,7 +2,20 @@
 
 {% block title %}<title>FM24-{{club.name}}</title>{% endblock %}
 
-{% block css %}{% endblock %}
+{% block css %}
+<style>
+    .player-card{
+        text-align: center;
+        display: inline-block;
+        width: 200px;
+        height: 100px;
+        margin: 10px;
+        padding: 10px;
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+</style>
+{% endblock %}
 
 {% block content %}
 <div>
@@ -18,7 +31,17 @@
     <h4>League Position: {{league_position}}</h4>
     <h4>Avarage: {{club.avg}}</h4>
     <br>
-    <h5>{{text}}</h5>
+</div>
+
+<div>
+    {% for player in club.squad %}
+    <div class="player-card">
+        <img src="{{player.image_link}}" alt="{{player.fullname}}-profile-pic"></img>
+        <a href="/view_player/{{player._id}}" class="hover-link">
+                {{player.fullname}}
+        </a>
+    </div>
+    {% endfor %}
 </div>
 {% endblock %}
 

@@ -6,8 +6,13 @@
 
 {% block content %}
 <div>
-    <img src="{{player.image_link}}" alt="{{player.name}}-profile-pic">
-    <h2>Name: {{player.name}}</h2>
+    <img src="{{player.image_link}}" alt="{{player.name}}-profile-pic" width: 200px;>
+    <h2>Name: {{player.fullname}}</h2>
+    <h2>Age: {{player.age}}</h2>
+    <h2>Overall: {{player.avg}}</h2>
+    <h2>Potential: {{player.potential}}</h2>
+    <h2>Position: {{player.position}}</h2>
+    <h2>Club: {{player.club}}</h2>
 </div>
 {% endblock %}
 

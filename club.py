@@ -15,7 +15,11 @@ class Club:
         self.PTS = 0
         self.league = None
         self.league_pos = 0
+        self.squad = []
 
     def generate_league_stats(self):
         self.GD = self.GA - self.GF
         self.PTS = (self.W*3) + self.D
+
+    def add_player(self, player):
+        self.squad.append(player)

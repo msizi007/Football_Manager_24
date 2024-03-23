@@ -20,7 +20,7 @@ def squad():
 @app.route('/view_player/<id>')
 def view_player(id):
     player = [player for player in ALL_PLAYERS if player._id == int(id)][0]
-    return render_template('view_player.html')
+    return render_template('view_player.html', player=player)
 
 @app.route('/tactics')
 def tactics():
@@ -60,6 +60,11 @@ def competition():
 def view_club(id):
     for pos, club in enumerate(ALL_CLUBS, start=1):
         if club._id == int(id):
+            squad = []
+            for player in club.squad:
+                if player not in squad: squad.append(player)
+                
+            club.squad = squad
             return render_template('view_club.html', club=club, league_position=pos) 
         
     return redirect(url_for('competition'))
