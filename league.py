@@ -22,7 +22,7 @@ class League:
             data.append([team.name, team.P, team.W, 
                 team.D, team.L, team.GA, team.GF, 
                 team.GD, team.PTS])
-        print(tabulate(data, headers=headers))
+        print(tabulate(data, headers=headers, tablefmt="grid"))
             
 
         

@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %}<title>FM24-Competitions</title>{% endblock %}
+
+{% block css %}{% endblock %}
+
+{% block content %}
+<div>
+    <table>
+        <tr>
+            <th>Club Name</th>
+            <th>P</th>
+            <th>W</th>
+            <th>D</th>
+            <th>L</th>
+            <th>GA</th>
+            <th>GF</th>
+            <th>GD</th>
+            <th>PTS</th>
+        </tr>
+        {% for club in clubs %}
+        <tr>
+            <td>{{club.name}}</td>
+            <td>{{club.W}}</td>
+            <td>{{club.D}}</td>
+            <td>{{club.L}}</td>
+            <td>{{club.GA}}</td>
+            <td>{{club.GF}}</td>
+            <td>{{club.GD}}</td>
+            <td>{{club.PTS}}</td>
+        </tr>
+        {% ebdfor %}
+    </table>
+</div>
+{% endblock %}
+
+{% block js %}{% endblock %}
