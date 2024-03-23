@@ -2,13 +2,126 @@
 
 {% block title %}<title>FM24-Squad</title>{% endblock %}
 
-{% block css %}{% endblock %}
+{% block css %}
+<style>
+    div{
+        display: inline-block;
+    }
+    /* table, th, td{
+        border: 1px solid black;
+        border-collapse: collapse; 
+    } */
+    table{
+        width: 40%;
+        margin-right: 100px;
+    }
+    td{
+        padding: 10px;
+        font-family: monospace;
+        font-size: 20px;
+    }
+</style>
+{% endblock %}
 
 {% block content %}
+<br><br>
 <div>
-    {% if not messages %}
-        <h2>No Messages!</h2>
-    {% endif %}
+    <table>
+        <tr>
+            <th colspan="9">4-4-4 Formation</th>
+        </tr>
+        <tr id="row-1">
+            <td></td>
+            <td>ST</td>
+            <td></td>
+            <td>ST</td>
+            <td></td>
+        </tr>
+        <tr id="row-2">
+            <td>LM</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>RM</td>
+        </tr>
+        <tr id="row-3">
+            <td></td>
+            <td>CM</td>
+            <td></td>
+            <td>CM</td>
+            <td></td>
+        </tr>
+        <tr id="row-4">
+            <td>LB</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>RB</td>
+        </tr>
+        <tr id="row-5">
+            <td></td>
+            <td>CB</td>
+            <td></td>
+            <td>CB</td>
+            <td></td>
+        </tr>
+        <tr id="row-6">
+            <td></td>
+            <td></td>
+            <td>GK</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+<div>
+    <table>
+        <tr>
+        <th colspan="9">FULL Formation</th>
+        </tr>
+        <tr id="row-1">
+            <td>LIW</td>
+            <td>LST</td>
+            <td>ST</td>
+            <td>RST</td>
+            <td>RIW</td>
+        </tr>
+        <tr id="row-2">
+            <td>LW</td>
+            <td>LCAM</td>
+            <td>CAM</td>
+            <td>RCAM</td>
+            <td>RW</td>
+        </tr>
+        <tr id="row-3">
+            <td>ILB</td>
+            <td>LCM</td>
+            <td>CM</td>
+            <td>RCM</td>
+            <td>IRB</td>
+        </tr>
+        <tr id="row-4">
+            <td>LB</td>
+            <td>LCDM</td>
+            <td>CDM</td>
+            <td>RCDM</td>
+            <td>RB</td>
+        </tr>
+        <tr id="row-5">
+            <td>LFB</td>
+            <td>LCB</td>
+            <td>CB</td>
+            <td>RCB</td>
+            <td>RFB</td>
+        </tr>
+        <tr id="row-6">
+            <td></td>
+            <td></td>
+            <td>GK</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
 </div>
 {% endblock %}
 

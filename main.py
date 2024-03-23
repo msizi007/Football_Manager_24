@@ -1,5 +1,6 @@
 from flask import Flask, render_template, redirect, url_for
 from data import ALL_CLUBS, ALL_RESULTS, fixtures, LegendsLeague
+import numpy as np
 
 app = Flask(__name__)
 
@@ -13,7 +14,8 @@ def inbox():
 
 @app.route('/squad')
 def squad():
-    return render_template('squad.html')
+    rows =np.zeros((9, 9))
+    return render_template('squad.html', rows=rows)
 
 @app.route('/tactics')
 def tactics():
@@ -46,7 +48,8 @@ def schedule():
 @app.route('/competition')
 def competition():
     LegendsLeague.order_table()
-    return render_template('competition.html', clubs=ALL_CLUBS, all_results=ALL_RESULTS)
+    return render_template('competition.html', 
+        clubs=ALL_CLUBS, all_results=ALL_RESULTS)
 
 @app.route('/view_club/<id>')
 def view_club(id):
