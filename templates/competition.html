@@ -18,6 +18,9 @@
         text-align: center;
         width: 7.5%;
     }
+    #league-pos{
+        width: 2%;
+    }
 </style>
 {% endblock %}
 
@@ -25,6 +28,7 @@
 <div>
     <table>
         <tr>
+            <th id="league-pos">Pos</th>
             <th class="club-name">Club Name</th>
             <th class="table-attr">P</th>
             <th class="table-attr">W</th>
@@ -37,6 +41,7 @@
         </tr>
         {% for club in clubs %}
         <tr>
+            <td>{{club.league_pos}}</td>
             <td>
                 <a href="/view_club/{{club._id}}" class="hover-link">
                     {{club.name}}

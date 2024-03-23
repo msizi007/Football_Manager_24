@@ -17,7 +17,8 @@ class League:
 
     def order_table(self):
         self.teams.sort(key=lambda x: x.avg, reverse=True)
-
+        for pos, team in enumerate(self.teams, start=1):
+            team.league_pos = pos
     def display_table(self):
         self.order_table()
         headers = ['Name', 'P', 'W', 'D', 'L', 'GA', 'GF', 'GD', 'PTS']

@@ -50,9 +50,9 @@ def competition():
 
 @app.route('/view_club/<id>')
 def view_club(id):
-    for club in ALL_CLUBS:
+    for pos, club in enumerate(ALL_CLUBS, start=1):
         if club._id == int(id):
-            return render_template('view_club.html', club=club) 
+            return render_template('view_club.html', club=club, league_position=pos) 
         
     return redirect(url_for('competition'))
 
