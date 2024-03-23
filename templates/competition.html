@@ -1,26 +1,44 @@
-{% extends "base.html" %}
+{% extends "layout.html" %}
 
 {% block title %}<title>FM24-Competitions</title>{% endblock %}
 
-{% block css %}{% endblock %}
+{% block css %}
+<style>
+    table{
+        width: 100%;
+    }
+    table, th, td{
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    .club-name{
+        width: 40%;
+    }
+    .table-attr{
+        text-align: center;
+        width: 7.5%;
+    }
+</style>
+{% endblock %}
 
 {% block content %}
 <div>
     <table>
         <tr>
-            <th>Club Name</th>
-            <th>P</th>
-            <th>W</th>
-            <th>D</th>
-            <th>L</th>
-            <th>GA</th>
-            <th>GF</th>
-            <th>GD</th>
-            <th>PTS</th>
+            <th class="club-name">Club Name</th>
+            <th class="table-attr">P</th>
+            <th class="table-attr">W</th>
+            <th class="table-attr">D</th>
+            <th class="table-attr">L</th>
+            <th class="table-attr">GA</th>
+            <th class="table-attr">GF</th>
+            <th class="table-attr">GD</th>
+            <th class="table-attr">PTS</th>
         </tr>
         {% for club in clubs %}
         <tr>
             <td>{{club.name}}</td>
+            <td>{{club.P}}</td>
             <td>{{club.W}}</td>
             <td>{{club.D}}</td>
             <td>{{club.L}}</td>
@@ -29,8 +47,13 @@
             <td>{{club.GD}}</td>
             <td>{{club.PTS}}</td>
         </tr>
-        {% ebdfor %}
+        {% endfor %}
     </table>
+</div>
+<div>
+    {% for result in all_results %}
+    <div>Results: {{result}}</div>
+    {% endfor %}
 </div>
 {% endblock %}
 

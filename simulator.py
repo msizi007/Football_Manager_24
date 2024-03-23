@@ -39,3 +39,5 @@ def simulate_fixture(team1, team2):
 
     team1.GA += team1_score; team1.GF += team2_score
     team2.GA += team2_score; team2.GF += team1_score
+
+    return (f"{team1.name} {team1_score}:{team2_score} {team2.name}")

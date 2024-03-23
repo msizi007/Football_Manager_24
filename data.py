@@ -2,6 +2,7 @@ from club import Club
 from fixtures import generate_fixtures
 from simulator import simulate_fixture
 from league import League
+import json
 
 # generate 18 random teams with different ratings
 Avila = Club("Avilla F.C", 78)
@@ -29,11 +30,32 @@ ALL_CLUBS = [Avila, BocaJuniors, Bragantino, Chelsea, CrystalPalace,
 
 fixtures = generate_fixtures(ALL_CLUBS)
 
+ALL_RESULTS = []
 for fixture in fixtures:
-    simulate_fixture(*fixture)
-    simulate_fixture(*fixture)
+    res = simulate_fixture(*fixture)
+    res2 = simulate_fixture(*fixture)
+    ALL_RESULTS.append(res)
+    ALL_RESULTS.append(res2)
 
 for team in ALL_CLUBS:
     team.generate_league_stats()
 
 LegendsLeague = League("Legends League", ALL_CLUBS)
+
+LEAGUE_ANALYSIS = dict()
+
+def record_league_stats():
+    for club in ALL_CLUBS:
+        data = {'P': club.P,
+            'W': club.W,
+            'D': club.D,
+            'L': club.L,
+            'GA': club.GA,
+            'GF': club.GF,
+            'GD': club.GD,
+            'PTS': club.PTS}
+        LEAGUE_ANALYSIS[club.name] = data
+
+record_league_stats()
+with open('league_analyses.json', 'w') as file:
+    json.dump(LEAGUE_ANALYSIS, file, indent=4)
