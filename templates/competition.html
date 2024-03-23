@@ -37,7 +37,11 @@
         </tr>
         {% for club in clubs %}
         <tr>
-            <td>{{club.name}}</td>
+            <td>
+                <a href="/view_club/{{club._id}}" class="hover-link">
+                    {{club.name}}
+                </a>
+            </td>
             <td>{{club.P}}</td>
             <td>{{club.W}}</td>
             <td>{{club.D}}</td>

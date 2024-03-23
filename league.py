@@ -5,6 +5,10 @@ class League:
         self.teams = teams
         self.avg_rating = self.calc_avarage_rating()
 
+        # set every club's league to this league
+        for team in self.teams:
+            team.league = self
+
     def calc_avarage_rating(self):
         total = 0
         for team in self.teams:

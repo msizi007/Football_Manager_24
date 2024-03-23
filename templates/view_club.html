@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+{% block title %}<title>FM24-{{club.name}}</title>{% endblock %}
+
+{% block css %}{% endblock %}
+
+{% block content %}
+<div>
+    <h2>
+        <a href="/view_club/{{club._id}}" class="hover-link">
+            {{club.name}}
+        </a></h2>
+    <h4>League: 
+        <a href="/competition" class="hover-link">
+            {{club.league.name}}
+        </a>
+    </h4>
+    <h4>Avarage: {{club.avg}}</h4>
+</div>
+{% endblock %}
+
+{% block js %}{% endblock %}

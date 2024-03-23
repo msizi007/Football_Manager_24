@@ -1,6 +1,7 @@
 
 class Club:
-    def __init__(self, name: str, rating: int):
+    def __init__(self, _id, name: str, rating: int):
+        self._id = _id
         self.name = name
         self.rating = rating
         self.avg = self.rating
@@ -12,6 +13,7 @@ class Club:
         self.GF = 0
         self.GD = 0
         self.PTS = 0
+        self.league = None
 
     def generate_league_stats(self):
         self.GD = self.GA - self.GF

@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, redirect, url_for
 from data import ALL_CLUBS, ALL_RESULTS, fixtures, LegendsLeague
 
 app = Flask(__name__)
@@ -47,6 +47,14 @@ def schedule():
 def competition():
     LegendsLeague.order_table()
     return render_template('competition.html', clubs=ALL_CLUBS, all_results=ALL_RESULTS)
+
+@app.route('/view_club/<id>')
+def view_club(id):
+    for club in ALL_CLUBS:
+        if club._id == int(id):
+            return render_template('view_club.html', club=club) 
+        
+    return redirect(url_for('competition'))
 
 @app.route('/scouting')
 def scouting():
