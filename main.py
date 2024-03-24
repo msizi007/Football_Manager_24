@@ -1,5 +1,5 @@
 from flask import Flask, render_template, redirect, url_for
-from data import ALL_RESULTS, fixtures, LegendsLeague, ALL_CLUBS, ALL_PLAYERS
+from data import ALL_RESULTS, fixtures, ALL_CLUBS, ALL_PLAYERS, PREMIER_LEAGUE
 import numpy as np
 
 app = Flask(__name__)
@@ -52,9 +52,9 @@ def schedule():
 
 @app.route('/competition')
 def competition():
-    LegendsLeague.order_table()
+    PREMIER_LEAGUE.order_table()
     return render_template('competition.html', 
-        clubs=ALL_CLUBS, all_results=ALL_RESULTS)
+        clubs=ALL_CLUBS, all_results=ALL_RESULTS, league_name="Premier League")
 
 @app.route('/view_club/<id>')
 def view_club(id):

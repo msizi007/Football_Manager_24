@@ -7,10 +7,9 @@
     .player-card{
         text-align: center;
         display: inline-block;
-        width: 200px;
-        height: 100px;
+        width: 250px;
         margin: 10px;
-        padding: 10px;
+        padding: 5px;
         border: 1px solid black;
         border-collapse: collapse;
     }
@@ -36,10 +35,12 @@
 <div>
     {% for player in club.squad %}
     <div class="player-card">
-        <img src="{{player.image_link}}" alt="{{player.fullname}}-profile-pic"></img>
+        <img src="{{player.image_link}}" 
+        alt="{{player.fullname}}-profile-pic"></img><br>
         <a href="/view_player/{{player._id}}" class="hover-link">
-                {{player.fullname}}
+            {{player.fullname}} ({{player.avg}})
         </a>
+        <h4>{{player.position}}</h4>
     </div>
     {% endfor %}
 </div>

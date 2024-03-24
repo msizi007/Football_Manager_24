@@ -38,7 +38,7 @@ HEADERS = ['Known As', 'Full Name', 'Overall', 'Age', 'Potential', 'Value(in Eur
             'Best Position', 'Nationality', 'Image Link', 'Club Name', 'Wage(in Euro)', 'Release Clause',
             'Contract Until', 'Joined On', 'National Team Name']
 
-def generate_csv_data(ALL_CLUBS):
+def generate_players_csv_data(ALL_CLUBS):
     # read csv and get all fieldnames
     with open("players.csv") as csvfile:
         csv_reader = csv.DictReader(csvfile)
@@ -70,10 +70,14 @@ def generate_csv_data(ALL_CLUBS):
             if player.club == club.name:
                 club.add_player(player)
 
+    # calculate club avarage for each club
+    for club in ALL_CLUBS:
+        club.set_avarage()
+
 def generate_players():
     for _id, player in enumerate(FINAL_DATA, start=1):
-        player_obj = Player(_id=_id, known_as=player['Known As'], fullname=player['Full Name'], avg=player['Overall'], age=player['Age'],
-            potential=player['Potential'], value=player['Value(in Euro)'], secondary_positions=player['Positions Played'], 
+        player_obj = Player(_id=int(_id), known_as=player['Known As'], fullname=player['Full Name'], avg=int(player['Overall']), age=int(player['Age']),
+            potential=int(player['Potential']), value=player['Value(in Euro)'], secondary_positions=player['Positions Played'], 
             position=player['Best Position'], nationality=player['Nationality'], image_link=player['Image Link'], club=player['Club Name'],
             wage=player['Wage(in Euro)'], release_clause=player['Release Clause'], contract_until=player['Contract Until'],
             joined_on=player['Joined On'], national_team_name=player['National Team Name'])

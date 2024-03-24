@@ -1,10 +1,9 @@
 
 class Club:
-    def __init__(self, _id, name: str,  rating: int=50):
+    def __init__(self, _id, name: str):
         self._id = _id
         self.name = name
-        self.rating = rating
-        self.avg = self.rating
+        self.avg = 0
         self.P = 0
         self.W = 0
         self.L = 0
@@ -23,3 +22,10 @@ class Club:
 
     def add_player(self, player):
         self.squad.append(player)
+
+    def set_avarage(self):
+        total = 0
+        for player in self.squad:
+            total += player.avg
+
+        self.avg = int(total/(len(self.squad)))

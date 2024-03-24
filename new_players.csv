@@ -1,34 +1,571 @@
 Known As,Full Name,Overall,Age,Potential,Value(in Euro),Positions Played,Best Position,Nationality,Image Link,Club Name,Wage(in Euro),Release Clause,Contract Until,Joined On,National Team Name
-R. Lewandowski,Robert Lewandowski,91,33,91,84000000,ST,ST,Poland,https://cdn.sofifa.net/players/188/545/23_60.png,FC Barcelona,420000,172200000,2025,2022,Poland
-M. ter Stegen,Marc-André ter Stegen,88,30,89,68500000,GK,GK,Germany,https://cdn.sofifa.net/players/192/448/23_60.png,FC Barcelona,210000,145600000,2025,2014,Germany
-F. de Jong,Frenkie de Jong,87,25,92,116500000,CM,CM,Netherlands,https://cdn.sofifa.net/players/228/702/23_60.png,FC Barcelona,230000,247600000,2026,2019,Netherlands
-Jordi Alba,Jordi Alba Ramos,85,33,85,28000000,LB,LB,Spain,https://cdn.sofifa.net/players/189/332/23_60.png,FC Barcelona,190000,57400000,2024,2012,Spain
-Sergio Busquets,Sergio Busquets Burgos,85,33,85,26500000,CDM,CDM,Spain,https://cdn.sofifa.net/players/189/511/23_60.png,FC Barcelona,190000,54300000,2023,2008,Spain
-M. Depay,Memphis Depay,85,28,85,55000000,"CF,ST,LW",CF,Netherlands,https://cdn.sofifa.net/players/202/556/23_60.png,FC Barcelona,230000,112800000,2023,2021,Netherlands
-Pedri,Pedro González López,85,19,93,116000000,CM,CM,Spain,https://cdn.sofifa.net/players/251/854/23_60.png,FC Barcelona,115000,261000000,2026,2020,Spain
-J. Koundé,Jules Koundé,84,23,89,57500000,"CB,RB",CB,France,https://cdn.sofifa.net/players/241/486/23_60.png,FC Barcelona,150000,122200000,2027,2022,France
-F. Kessié,Franck Yannick Kessié,84,25,86,47500000,"CDM,CM",CDM,Côte d'Ivoire,https://cdn.sofifa.net/players/230/938/23_60.png,FC Barcelona,165000,100900000,2026,2022,-
-O. Dembélé,Ousmane Dembélé,83,25,86,48000000,"RW,LW",LM,France,https://cdn.sofifa.net/players/231/443/23_60.png,FC Barcelona,180000,102000000,2024,2017,-
-Raphinha,Raphael Dias Belloli,83,25,86,48000000,"RW,RM",LM,Brazil,https://cdn.sofifa.net/players/233/419/23_60.png,FC Barcelona,180000,102000000,2027,2022,-
-R. Araujo,Ronald Araujo,83,23,89,52000000,"CB,RB",CB,Uruguay,https://cdn.sofifa.net/players/253/163/23_60.png,FC Barcelona,135000,117000000,2026,2018,-
-Piqué,Gerard Piqué Bernabeu,83,35,83,9500000,CB,CB,Spain,https://cdn.sofifa.net/players/152/729/23_60.png,FC Barcelona,110000,19500000,2024,2008,-
-A. Christensen,Andreas Christensen,82,26,86,37500000,CB,CB,Denmark,https://cdn.sofifa.net/players/213/661/23_60.png,FC Barcelona,145000,79700000,2026,2022,Denmark
-Ferran Torres,Ferran Torres García,82,22,88,49000000,"LW,ST",LW,Spain,https://cdn.sofifa.net/players/241/461/23_60.png,FC Barcelona,150000,110300000,2027,2022,Spain
-Sergi Roberto,Sergio Roberto Carnicer,80,30,80,18000000,"RB,CM",RB,Spain,https://cdn.sofifa.net/players/199/564/23_60.png,FC Barcelona,125000,36900000,2023,2013,-
-Ansu Fati,Anssumane Fati,79,19,90,38000000,LW,CAM,Spain,https://cdn.sofifa.net/players/253/004/23_60.png,FC Barcelona,84000,85500000,2027,2018,-
-Gavi,Pablo Martín Páez Gavira,79,17,88,36000000,"CM,LW,RW",CAM,Spain,https://cdn.sofifa.net/players/264/240/23_60.png,FC Barcelona,17000,81000000,2026,2020,-
-Marcos Alonso,Marcos Alonso Mendoza,79,31,79,12500000,"LB,LWB",LB,Spain,https://cdn.sofifa.net/players/192/638/23_60.png,FC Barcelona,115000,25600000,2023,2022,-
-Héctor Bellerín,Héctor Bellerín Moruno,79,27,80,18500000,RB,RB,Spain,https://cdn.sofifa.net/players/203/747/23_60.png,FC Barcelona,115000,39300000,2023,2022,-
-Eric García,Eric García Martret,77,21,84,20000000,CB,CDM,Spain,https://cdn.sofifa.net/players/245/037/23_60.png,FC Barcelona,71000,45000000,2026,2021,Spain
-Iñaki Peña,Ignacio Peña Sotorres,72,23,81,4500000,GK,GK,Spain,https://cdn.sofifa.net/players/246/139/23_60.png,FC Barcelona,44000,10100000,2023,2018,-
-Balde,Alejandro Balde Martínez,71,18,82,3800000,LB,LM,Spain,https://cdn.sofifa.net/players/263/578/23_60.png,FC Barcelona,17000,8600000,2024,2021,-
-Pablo Torre,Pablo Torre Carral,69,19,86,3600000,"CAM,CM,LM",CAM,Spain,https://cdn.sofifa.net/players/267/976/23_60.png,FC Barcelona,27000,9600000,2026,2022,-
-Ilias,Ilias Akhomach Chakkour,67,18,83,2600000,RW,CAM,Spain,https://cdn.sofifa.net/players/265/578/23_60.png,FC Barcelona,15000,7000000,2023,2021,-
-Arnau Tenas,Arnau Tenas Ureña,67,21,81,2200000,GK,GK,Spain,https://cdn.sofifa.net/players/259/065/23_60.png,FC Barcelona,16000,5900000,2023,2020,-
-Roberto,Roberto Fernández Jaén,67,20,78,2300000,"ST,CAM",ST,Spain,https://cdn.sofifa.net/players/263/676/23_60.png,FC Barcelona,3000,0,2023,2020,-
-Álvaro Sanz,Álvaro Sanz Catalán,65,21,77,1700000,CDM,CDM,Spain,https://cdn.sofifa.net/players/266/157/23_60.png,FC Barcelona,17000,3800000,2023,2020,-
-E. Demir,Emre Demir,65,18,79,1700000,"CAM,RW,LW",CAM,Turkey,https://cdn.sofifa.net/players/252/870/23_60.png,FC Barcelona,9000,4500000,2027,2022,-
-Àlex Carbonell,Àlex Carbonell Vallés,64,24,68,825000,"CM,CDM",CM,Spain,https://cdn.sofifa.net/players/235/521/23_60.png,FC Barcelona,20000,1800000,2023,2022,-
-H. Abe,Hiroki Abe,64,23,73,1300000,"LW,RW",RM,Japan,https://cdn.sofifa.net/players/237/823/23_60.png,FC Barcelona,22000,2900000,2023,2019,-
-Estanis,Estanislau Pedrola Fortuny,62,18,79,1000000,"RW,LW",ST,Spain,https://cdn.sofifa.net/players/266/158/23_60.png,FC Barcelona,8000,2700000,2024,2021,-
-Fabio Blanco,Fabio Blanco Gómez,62,18,82,1100000,RW,RM,Spain,https://cdn.sofifa.net/players/262/954/23_60.png,FC Barcelona,8000,3400000,2024,2022,-
+K. De Bruyne,Kevin De Bruyne,91,31,91,107500000,"CM,CAM",CM,Belgium,https://cdn.sofifa.net/players/192/985/23_60.png,Manchester City,350000,198900000,2025,2015,Belgium
+M. Salah,Mohamed Salah,90,30,90,115500000,RW,RW,Egypt,https://cdn.sofifa.net/players/209/331/23_60.png,Liverpool,270000,213700000,2023,2017,-
+Cristiano Ronaldo,C. Ronaldo dos Santos Aveiro,90,37,90,41000000,ST,ST,Portugal,https://cdn.sofifa.net/players/020/801/23_60.png,Manchester United,220000,77900000,2023,2021,Portugal
+V. van Dijk,Virgil van Dijk,90,30,90,98000000,CB,CB,Netherlands,https://cdn.sofifa.net/players/203/376/23_60.png,Liverpool,230000,181300000,2025,2018,Netherlands
+H. Kane,Harry Kane,89,28,89,105500000,ST,ST,England,https://cdn.sofifa.net/players/202/126/23_60.png,Tottenham Hotspur,240000,200500000,2024,2010,England
+H. Son,Heung Min Son,89,29,89,101000000,"LW,LM",LW,Korea Republic,https://cdn.sofifa.net/players/200/104/23_60.png,Tottenham Hotspur,240000,191900000,2025,2015,-
+Casemiro,Carlos Henrique Venancio Casimiro,89,30,89,86000000,CDM,CDM,Brazil,https://cdn.sofifa.net/players/200/145/23_60.png,Manchester United,240000,163400000,2026,2022,-
+Ederson,Ederson Santana de Moraes,89,28,91,88000000,GK,GK,Brazil,https://cdn.sofifa.net/players/210/257/23_60.png,Manchester City,210000,169400000,2026,2017,-
+Alisson,Alisson Ramses Becker,89,29,90,79000000,GK,GK,Brazil,https://cdn.sofifa.net/players/212/831/23_60.png,Liverpool,190000,152100000,2027,2018,-
+N. Kanté,N'Golo Kanté,89,31,89,72000000,"CDM,CM",CDM,France,https://cdn.sofifa.net/players/215/914/23_60.png,Chelsea,220000,133199999,2023,2016,France
+Rúben Dias,Rúben Santos Gato Alves Dias,88,25,91,107500000,CB,CB,Portugal,https://cdn.sofifa.net/players/239/818/23_60.png,Manchester City,230000,206900000,2027,2020,Portugal
+E. Haaland,Erling Haaland,88,21,94,148000000,ST,ST,Norway,https://cdn.sofifa.net/players/239/085/23_60.png,Manchester City,220000,303400000,2027,2022,Norway
+Bernardo Silva,Bernardo Mota Carvalho e Silva,88,27,88,97500000,"CAM,CM",CAM,Portugal,https://cdn.sofifa.net/players/218/667/23_60.png,Manchester City,260000,180400000,2025,2017,Portugal
+João Cancelo,João Pedro Cavaco Cancelo,88,28,88,82500000,"LB,RB",LB,Portugal,https://cdn.sofifa.net/players/210/514/23_60.png,Manchester City,250000,152600000,2027,2019,Portugal
+Rodri,Rodrigo Hernández Cascante,87,26,89,88500000,CDM,CDM,Spain,https://cdn.sofifa.net/players/231/866/23_60.png,Manchester City,200000,170400000,2027,2019,Spain
+Fabinho,Fábio Henrique Tavares,87,28,88,77000000,"CDM,CB",CDM,Brazil,https://cdn.sofifa.net/players/209/499/23_60.png,Liverpool,185000,148200000,2026,2018,-
+H. Lloris,Hugo Lloris,87,35,87,9000000,GK,GK,France,https://cdn.sofifa.net/players/167/948/23_60.png,Tottenham Hotspur,80000,17100000,2024,2012,France
+De Gea,David De Gea Quintana,87,31,87,42000000,GK,GK,Spain,https://cdn.sofifa.net/players/193/080/23_60.png,Manchester United,150000,79800000,2023,2011,Spain
+T. Alexander-Arnold,Trent Alexander-Arnold,87,23,90,100500000,RB,CM,England,https://cdn.sofifa.net/players/231/281/23_60.png,Liverpool,150000,193500000,2025,2015,-
+A. Robertson,Andrew Robertson,87,28,87,72000000,LB,LB,Scotland,https://cdn.sofifa.net/players/216/267/23_60.png,Liverpool,185000,133199999,2026,2017,Scotland
+K. Koulibaly,Kalidou Koulibaly,87,31,87,54500000,CB,CB,Senegal,https://cdn.sofifa.net/players/201/024/23_60.png,Chelsea,175000,100800000,2026,2022,-
+Thiago,Thiago Alcântara,86,31,86,55500000,CM,CM,Spain,https://cdn.sofifa.net/players/189/509/23_60.png,Liverpool,180000,102700000,2024,2020,-
+R. Sterling,Raheem Sterling,86,27,86,72500000,"LW,RW",LW,England,https://cdn.sofifa.net/players/202/652/23_60.png,Chelsea,195000,134100000,2027,2022,England
+R. Mahrez,Riyad Mahrez,86,31,86,56500000,"RW,RM",RW,Algeria,https://cdn.sofifa.net/players/204/485/23_60.png,Manchester City,220000,104500000,2025,2018,-
+Thiago Silva,Thiago Emiliano da Silva,86,37,86,12000000,CB,CB,Brazil,https://cdn.sofifa.net/players/164/240/23_60.png,Chelsea,115000,22200000,2023,2020,-
+Bruno Fernandes,Bruno Miguel Borges Fernandes,86,27,86,72500000,"CAM,CM",CAM,Portugal,https://cdn.sofifa.net/players/212/198/23_60.png,Manchester United,190000,137800000,2026,2020,Portugal
+A. Laporte,Aymeric Laporte,86,28,87,64500000,CB,CB,Spain,https://cdn.sofifa.net/players/212/218/23_60.png,Manchester City,195000,124200000,2025,2018,Spain
+É. Mendy,Édouard Mendy,86,30,87,51000000,GK,GK,Senegal,https://cdn.sofifa.net/players/234/642/23_60.png,Chelsea,130000,98200000,2025,2020,-
+İ. Gündoğan,İlkay Gündoğan,85,31,85,44000000,"CM,CDM",CM,Germany,https://cdn.sofifa.net/players/186/942/23_60.png,Manchester City,185000,81400000,2023,2016,Germany
+K. Walker,Kyle Walker,85,32,85,37500000,RB,RB,England,https://cdn.sofifa.net/players/188/377/23_60.png,Manchester City,170000,69400000,2024,2017,England
+P. Aubameyang,Pierre-Emerick Aubameyang,85,33,85,34500000,ST,ST,Gabon,https://cdn.sofifa.net/players/188/567/23_60.png,Chelsea,180000,63800000,2024,2022,-
+Jorginho,Luiz Frello Filho Jorge,85,30,85,51500000,CM,CM,Italy,https://cdn.sofifa.net/players/205/498/23_60.png,Chelsea,165000,95300000,2023,2018,Italy
+J. Vardy,Jamie Vardy,85,35,85,23000000,ST,ST,England,https://cdn.sofifa.net/players/208/830/23_60.png,Leicester City,110000,43700000,2024,2012,-
+P. Foden,Phil Foden,85,22,92,109500000,"LW,CF,CAM",CAM,England,https://cdn.sofifa.net/players/237/692/23_60.png,Manchester City,180000,224500000,2024,2016,England
+Diogo Jota,Diogo José Teixeira da Silva,85,25,89,76000000,"CF,LW",ST,Portugal,https://cdn.sofifa.net/players/224/458/23_60.png,Liverpool,170000,146300000,2025,2020,Portugal
+T. Partey,Thomas Partey,84,29,84,36000000,"CDM,CM",CDM,Ghana,https://cdn.sofifa.net/players/209/989/23_60.png,Arsenal,115000,68400000,2024,2020,Ghana
+M. Kovačić,Mateo Kovačić,84,28,84,42000000,CM,CM,Croatia,https://cdn.sofifa.net/players/207/410/23_60.png,Chelsea,155000,77700000,2024,2019,Croatia
+J. Grealish,Jack Grealish,84,26,84,46000000,"LW,LM,CAM",LW,England,https://cdn.sofifa.net/players/206/517/23_60.png,Manchester City,185000,85100000,2027,2021,England
+E. Martínez,Emiliano Martínez,84,29,84,29000000,GK,GK,Argentina,https://cdn.sofifa.net/players/202/811/23_60.png,Aston Villa,95000,55100000,2027,2020,Argentina
+R. Varane,Raphaël Varane,84,29,85,39000000,CB,CB,France,https://cdn.sofifa.net/players/201/535/23_60.png,Manchester United,155000,77000000,2025,2021,France
+J. Matip,Joel Matip,84,30,84,34500000,CB,CB,Cameroon,https://cdn.sofifa.net/players/197/061/23_60.png,Liverpool,140000,63800000,2024,2016,-
+K. Trippier,Kieran Trippier,84,31,84,30500000,"RB,RM",RB,England,https://cdn.sofifa.net/players/186/345/23_60.png,Newcastle United,120000,58000000,2024,2022,England
+I. Perišić,Ivan Perišić,84,33,84,26500000,"LM,LWB",LM,Croatia,https://cdn.sofifa.net/players/181/458/23_60.png,Tottenham Hotspur,130000,50400000,2024,2022,Croatia
+Y. Tielemans,Youri Tielemans,84,25,86,52500000,"CM,CDM",CM,Belgium,https://cdn.sofifa.net/players/216/393/23_60.png,Leicester City,115000,103700000,2023,2019,Belgium
+L. Díaz,Luis Díaz,84,25,87,56000000,"LW,LM",RM,Colombia,https://cdn.sofifa.net/players/241/084/23_60.png,Liverpool,155000,107800000,2027,2022,-
+R. James,Reece James,84,22,88,57000000,"RWB,RB",RWB,England,https://cdn.sofifa.net/players/238/074/23_60.png,Chelsea,120000,109700000,2025,2017,England
+K. Havertz,Kai Havertz,84,23,91,84500000,"CAM,CF,ST",CAM,Germany,https://cdn.sofifa.net/players/235/790/23_60.png,Chelsea,130000,173200000,2025,2020,Germany
+D. Rice,Declan Rice,84,23,87,52000000,CDM,CDM,England,https://cdn.sofifa.net/players/234/378/23_60.png,West Ham United,83000,102700000,2024,2016,England
+M. Mount,Mason Mount,84,23,87,57500000,"CAM,RW",CAM,England,https://cdn.sofifa.net/players/233/064/23_60.png,Chelsea,130000,110700000,2024,2016,England
+J. Sancho,Jadon Sancho,84,22,88,61500000,"LW,RW,LM",CAM,England,https://cdn.sofifa.net/players/233/049/23_60.png,Manchester United,155000,121500000,2026,2021,England
+W. Ndidi,Wilfred Ndidi,84,25,86,47500000,"CDM,CM",CB,Nigeria,https://cdn.sofifa.net/players/226/790/23_60.png,Leicester City,105000,93800000,2024,2017,-
+M. Ødegaard,Martin Ødegaard,84,23,89,63500000,"CAM,CM",CAM,Norway,https://cdn.sofifa.net/players/222/665/23_60.png,Arsenal,105000,125400000,2026,2021,Norway
+Diego Carlos,Diego Carlos Santos Silva,83,29,83,30500000,CB,CB,Brazil,https://cdn.sofifa.net/players/219/693/23_60.png,Aston Villa,105000,58000000,2026,2022,-
+Rúben Neves,Rúben Diogo da Silva Neves,83,25,86,47500000,"CM,CDM",CM,Portugal,https://cdn.sofifa.net/players/224/293/23_60.png,Wolverhampton Wanderers,105000,93800000,2024,2017,Portugal
+Gabriel Jesus,Gabriel Fernando de Jesus,83,25,86,48500000,"ST,RW",ST,Brazil,https://cdn.sofifa.net/players/230/666/23_60.png,Arsenal,115000,95800000,2027,2022,-
+P. Højbjerg,Pierre-Emile Højbjerg,83,26,85,40500000,"CDM,CM",CDM,Denmark,https://cdn.sofifa.net/players/213/648/23_60.png,Tottenham Hotspur,110000,80000000,2025,2020,Denmark
+C. Romero,Cristian Romero,83,24,88,49500000,CB,CB,Argentina,https://cdn.sofifa.net/players/232/488/23_60.png,Tottenham Hotspur,95000,97800000,2027,2022,Argentina
+J. Henderson,Jordan Henderson,83,32,83,28500000,"CM,CDM",CM,England,https://cdn.sofifa.net/players/183/711/23_60.png,Liverpool,135000,52700000,2025,2011,England
+Roberto Firmino,Roberto Firmino Barbosa de Oliveira,83,30,83,35500000,CF,CF,Brazil,https://cdn.sofifa.net/players/201/942/23_60.png,Liverpool,150000,65700000,2023,2015,-
+J. Stones,John Stones,83,28,84,34500000,CB,CB,England,https://cdn.sofifa.net/players/203/574/23_60.png,Manchester City,150000,66400000,2026,2016,England
+H. Ziyech,Hakim Ziyech,83,29,83,35500000,"RW,CAM",RW,Morocco,https://cdn.sofifa.net/players/208/670/23_60.png,Chelsea,155000,65700000,2025,2020,Morocco
+Ricardo Pereira,Ricardo Barbosa Pereira,83,28,83,33000000,"RB,RWB",RB,Portugal,https://cdn.sofifa.net/players/210/243/23_60.png,Leicester City,105000,62700000,2026,2018,-
+J. Maddison,James Maddison,82,25,84,38000000,"CAM,RM",CAM,England,https://cdn.sofifa.net/players/220/697/23_60.png,Leicester City,100000,75100000,2024,2018,-
+Gonçalo Guedes,Gonçalo Manuel Ganchinho Guedes,82,25,85,41000000,"ST,LM,CF",ST,Portugal,https://cdn.sofifa.net/players/224/411/23_60.png,Wolverhampton Wanderers,105000,81000000,2024,2022,Portugal
+Antony,Antony Matheus dos Santos,82,22,88,49000000,"RW,RM",LM,Brazil,https://cdn.sofifa.net/players/255/475/23_60.png,Manchester United,130000,102900000,2027,2022,-
+D. Núñez,Darwin Núñez,82,23,89,61500000,"ST,LW",ST,Uruguay,https://cdn.sofifa.net/players/253/072/23_60.png,Liverpool,120000,126100000,2028,2022,-
+B. Saka,Bukayo Saka,82,20,89,60500000,"RM,LM",LM,England,https://cdn.sofifa.net/players/246/669/23_60.png,Arsenal,76000,127100000,2024,2018,England
+A. Ramsdale,Aaron Ramsdale,82,24,86,34500000,GK,GK,England,https://cdn.sofifa.net/players/233/934/23_60.png,Arsenal,62000,68100000,2025,2021,England
+Lucas Paquetá,Lucas Tolentino Coelho de Lima,82,24,87,46000000,"CAM,CM,CF",CAM,Brazil,https://cdn.sofifa.net/players/233/927/23_60.png,West Ham United,77000,90900000,2027,2022,-
+R. Jiménez,Raúl Jiménez,82,31,82,25500000,ST,ST,Mexico,https://cdn.sofifa.net/players/204/838/23_60.png,Wolverhampton Wanderers,110000,48500000,2024,2019,Mexico
+B. Chilwell,Ben Chilwell,82,25,85,37000000,"LWB,LB",LWB,England,https://cdn.sofifa.net/players/229/984/23_60.png,Chelsea,110000,71200000,2025,2020,England
+C. Pulisic,Christian Pulisic,82,23,88,48000000,"LW,RW,LM",RM,United States,https://cdn.sofifa.net/players/227/796/23_60.png,Chelsea,120000,98400000,2024,2019,United States
+J. Pickford,Jordan Pickford,82,28,84,26000000,GK,GK,England,https://cdn.sofifa.net/players/204/935/23_60.png,Everton,45000,51400000,2024,2017,England
+I. Gueye,Idrissa Gueye,82,32,82,20500000,"CDM,CM",CDM,Senegal,https://cdn.sofifa.net/players/193/474/23_60.png,Everton,53000,39000000,2024,2022,-
+Ł. Fabiański,Łukasz Fabiański,82,37,82,3400000,GK,GK,Poland,https://cdn.sofifa.net/players/164/835/23_60.png,West Ham United,43000,6500000,2023,2018,-
+Azpilicueta,César Azpilicueta Tanco,82,32,82,20000000,"CB,RWB,RB",CB,Spain,https://cdn.sofifa.net/players/184/432/23_60.png,Chelsea,115000,37000000,2023,2012,Spain
+Coutinho,Philippe Coutinho Correia,82,30,82,29500000,"CAM,LW,CM",CAM,Brazil,https://cdn.sofifa.net/players/189/242/23_60.png,Aston Villa,100000,56100000,2026,2022,-
+C. Eriksen,Christian Eriksen,82,30,82,29000000,"CM,CAM,CDM",CM,Denmark,https://cdn.sofifa.net/players/190/460/23_60.png,Manchester United,135000,55100000,2025,2022,Denmark
+L. Digne,Lucas Digne,82,28,82,27500000,LB,LB,France,https://cdn.sofifa.net/players/200/458/23_60.png,Aston Villa,100000,52300000,2026,2022,France
+W. Zaha,Wilfried Zaha,82,29,82,30000000,"LW,CF",LW,Côte d'Ivoire,https://cdn.sofifa.net/players/198/717/23_60.png,Crystal Palace,85000,57000000,2023,2015,-
+T. Souček,Tomáš Souček,81,27,83,28000000,"CDM,CM",CB,Czech Republic,https://cdn.sofifa.net/players/236/792/23_60.png,West Ham United,75000,55300000,2024,2020,Czech Republic
+Y. Bissouma,Yves Bissouma,81,25,86,34500000,"CDM,CM",CDM,Mali,https://cdn.sofifa.net/players/236/480/23_60.png,Tottenham Hotspur,88000,68100000,2026,2022,-
+A. Areola,Alphonse Areola,81,29,82,20000000,GK,GK,France,https://cdn.sofifa.net/players/193/105/23_60.png,West Ham United,64000,39500000,2027,2022,France
+I. Konaté,Ibrahima Konaté,81,23,88,48000000,CB,CB,France,https://cdn.sofifa.net/players/237/678/23_60.png,Liverpool,90000,98400000,2026,2021,-
+Cucurella,Marc Cucurella Saseta,81,23,85,34500000,"LB,CB,LM",LWB,Spain,https://cdn.sofifa.net/players/239/231/23_60.png,Chelsea,90000,66400000,2028,2022,-
+D. Kulusevski,Dejan Kulusevski,81,22,87,41500000,"RW,CF",CAM,Sweden,https://cdn.sofifa.net/players/247/394/23_60.png,Tottenham Hotspur,105000,0,2023,2020,Sweden
+Bruno Guimarães,Bruno Guimarães Moura,81,24,86,38500000,"CM,CDM",CM,Brazil,https://cdn.sofifa.net/players/247/851/23_60.png,Newcastle United,88000,76000000,2026,2022,-
+H. Maguire,Harry Maguire,81,29,82,24000000,CB,CB,England,https://cdn.sofifa.net/players/203/263/23_60.png,Manchester United,120000,47400000,2024,2019,England
+D. Zakaria,Denis Zakaria,81,25,86,34500000,"CDM,CM",CDM,Switzerland,https://cdn.sofifa.net/players/229/261/23_60.png,Chelsea,95000,0,2023,2022,-
+M. Akanji,Manuel Akanji,81,26,82,26500000,CB,CB,Switzerland,https://cdn.sofifa.net/players/229/237/23_60.png,Manchester City,120000,51000000,2023,2022,-
+K. Tierney,Kieran Tierney,81,25,85,33000000,LB,LWB,Scotland,https://cdn.sofifa.net/players/226/491/23_60.png,Arsenal,82000,65200000,2024,2019,Scotland
+M. Rashford,Marcus Rashford,81,24,85,37000000,"LW,ST",ST,England,https://cdn.sofifa.net/players/231/677/23_60.png,Manchester United,120000,73100000,2023,2014,-
+Richarlison,Richarlison de Andrade,81,25,84,34500000,"ST,LW",ST,Brazil,https://cdn.sofifa.net/players/231/943/23_60.png,Tottenham Hotspur,105000,68100000,2027,2022,-
+Gabriel,Gabriel dos S. Magalhães,81,24,87,37000000,CB,CB,Brazil,https://cdn.sofifa.net/players/232/580/23_60.png,Arsenal,74000,77700000,2025,2020,-
+N. Pope,Nick Pope,81,30,81,17000000,GK,GK,England,https://cdn.sofifa.net/players/203/841/23_60.png,Newcastle United,75000,32299999,2026,2022,England
+João Moutinho,João Filipe Moutinho,81,35,81,10500000,CM,CM,Portugal,https://cdn.sofifa.net/players/162/347/23_60.png,Wolverhampton Wanderers,70000,20000000,2023,2018,Portugal
+J. Gomez,Joe Gomez,81,25,86,34000000,"CB,RB",CB,England,https://cdn.sofifa.net/players/225/100/23_60.png,Liverpool,100000,65500000,2027,2015,-
+José Sá,José Pedro Malheiro de Sá,81,29,82,20000000,GK,GK,Portugal,https://cdn.sofifa.net/players/212/442/23_60.png,Wolverhampton Wanderers,74000,39500000,2026,2021,-
+J. Ward-Prowse,James Ward-Prowse,81,27,82,29500000,CM,CM,England,https://cdn.sofifa.net/players/205/569/23_60.png,Southampton,69000,58300000,2026,2011,-
+K. Phillips,Kalvin Phillips,81,26,85,32000000,"CDM,CM",CDM,England,https://cdn.sofifa.net/players/224/081/23_60.png,Manchester City,120000,61600000,2028,2022,England
+N. Keïta,Naby Keïta,81,27,82,29500000,CM,CAM,Guinea,https://cdn.sofifa.net/players/220/971/23_60.png,Liverpool,115000,56800000,2023,2018,-
+A. Saint-Maximin,Allan Saint-Maximin,81,25,83,32500000,LM,CAM,France,https://cdn.sofifa.net/players/216/388/23_60.png,Newcastle United,95000,64200000,2026,2019,-
+H. Barnes,Harvey Barnes,80,24,83,29000000,"LM,LW",CAM,England,https://cdn.sofifa.net/players/234/742/23_60.png,Leicester City,77000,57300000,2025,2016,-
+A. Isak,Alexander Isak,80,22,85,33000000,ST,ST,Sweden,https://cdn.sofifa.net/players/233/731/23_60.png,Newcastle United,90000,65200000,2028,2022,Sweden
+L. Sinisterra,Luis Sinisterra,80,23,86,33500000,"LW,LM",LW,Colombia,https://cdn.sofifa.net/players/233/500/23_60.png,Leeds United,48000,70400000,2027,2022,-
+Arthur,Arthur Henrique Ramos Oliveira Melo,80,25,82,26500000,"CM,CDM",CM,Brazil,https://cdn.sofifa.net/players/230/658/23_60.png,Liverpool,100000,0,2023,2020,-
+L. Bailey,Leon Bailey,80,24,83,29000000,"RM,RW,LW",CAM,Jamaica,https://cdn.sofifa.net/players/229/906/23_60.png,Aston Villa,77000,57300000,2025,2021,-
+A. Wan-Bissaka,Aaron Wan-Bissaka,80,24,83,26500000,RB,RB,England,https://cdn.sofifa.net/players/229/880/23_60.png,Manchester United,90000,52300000,2024,2019,-
+B. Kamara,Boubacar Kamara,80,22,86,31000000,CDM,CDM,France,https://cdn.sofifa.net/players/236/987/23_60.png,Aston Villa,69000,65099999,2027,2022,-
+S. Botman,Sven Botman,80,22,86,31000000,CB,CB,Netherlands,https://cdn.sofifa.net/players/251/809/23_60.png,Newcastle United,74000,65099999,2027,2022,-
+V. Coufal,Vladimír Coufal,80,29,80,18500000,"RB,RWB",RB,Czech Republic,https://cdn.sofifa.net/players/244/470/23_60.png,West Ham United,73000,35200000,2023,2020,Czech Republic
+S. McTominay,Scott McTominay,80,25,83,25000000,"CDM,CM",CDM,Scotland,https://cdn.sofifa.net/players/237/238/23_60.png,Manchester United,100000,49400000,2025,2013,Scotland
+W. Saliba,William Saliba,80,21,87,40000000,CB,CB,France,https://cdn.sofifa.net/players/243/715/23_60.png,Arsenal,58000,84000000,2024,2019,France
+E. Smith Rowe,Emile Smith Rowe,80,21,87,43000000,"LM,CAM",CAM,England,https://cdn.sofifa.net/players/240/273/23_60.png,Arsenal,65000,90300000,2026,2017,-
+N. Aguerd,Nayef Aguerd,80,26,83,24500000,CB,CB,Morocco,https://cdn.sofifa.net/players/244/749/23_60.png,West Ham United,70000,48400000,2027,2022,Morocco
+Nélson Semedo,Nélson Cabral Semedo,80,28,80,19000000,"RWB,RB",RWB,Portugal,https://cdn.sofifa.net/players/227/928/23_60.png,Wolverhampton Wanderers,84000,36100000,2023,2020,-
+Lucas Moura,Lucas Rodrigues M. Silva,80,29,80,20500000,RW,RW,Brazil,https://cdn.sofifa.net/players/200/949/23_60.png,Tottenham Hotspur,105000,39000000,2024,2018,-
+Allan,Allan Marques Loureiro,80,31,80,15000000,"CDM,CM",CDM,Brazil,https://cdn.sofifa.net/players/199/914/23_60.png,Everton,46000,28500000,2023,2020,-
+S. Ortega,Stefan Ortega,80,29,80,14500000,GK,GK,Germany,https://cdn.sofifa.net/players/200/159/23_60.png,Manchester City,95000,26800000,2025,2022,-
+L. Shaw,Luke Shaw,80,26,81,22500000,LB,LB,England,https://cdn.sofifa.net/players/205/988/23_60.png,Manchester United,105000,44400000,2023,2014,-
+E. Dier,Eric Dier,80,28,81,20000000,CB,CB,England,https://cdn.sofifa.net/players/202/335/23_60.png,Tottenham Hotspur,90000,39500000,2024,2014,-
+K. Zouma,Kurt Zouma,80,27,82,22500000,CB,CB,France,https://cdn.sofifa.net/players/204/311/23_60.png,West Ham United,70000,44400000,2025,2021,-
+V. Lindelöf,Victor Lindelöf,80,27,81,21000000,CB,CDM,Sweden,https://cdn.sofifa.net/players/221/660/23_60.png,Manchester United,105000,41500000,2024,2017,Sweden
+Kepa,Kepa Arrizabalaga,80,27,83,20500000,GK,GK,Spain,https://cdn.sofifa.net/players/206/585/23_60.png,Chelsea,80000,39500000,2025,2018,-
+D. Calvert-Lewin,Dominic Calvert-Lewin,80,25,84,29500000,ST,ST,England,https://cdn.sofifa.net/players/221/479/23_60.png,Everton,52000,58300000,2025,2016,-
+J. Bowen,Jarrod Bowen,80,25,83,28000000,"RM,ST",LM,England,https://cdn.sofifa.net/players/224/371/23_60.png,West Ham United,73000,55300000,2025,2020,-
+E. Buendía,Emiliano Buendía,80,25,82,26500000,"RM,RW,CAM",CAM,Argentina,https://cdn.sofifa.net/players/226/162/23_60.png,Aston Villa,84000,52300000,2026,2021,-
+G. Scamacca,Gianluca Scamacca,80,23,86,33500000,ST,ST,Italy,https://cdn.sofifa.net/players/226/710/23_60.png,West Ham United,73000,70400000,2027,2022,-
+M. Dúbravka,Martin Dúbravka,80,33,80,7000000,GK,GK,Slovakia,https://cdn.sofifa.net/players/220/407/23_60.png,Manchester United,70000,0,2023,2018,-
+Fred,Frederico de Paula Santos,80,29,80,20500000,"CM,CDM",CM,Brazil,https://cdn.sofifa.net/players/209/297/23_60.png,Manchester United,120000,39000000,2023,2018,-
+A. Martial,Anthony Martial,80,26,83,28000000,"ST,LM",ST,France,https://cdn.sofifa.net/players/211/300/23_60.png,Manchester United,125000,55300000,2024,2015,-
+T. Malacia,Tyrell Malacia,79,22,85,26500000,LB,LWB,Netherlands,https://cdn.sofifa.net/players/238/041/23_60.png,Manchester United,86000,55700000,2026,2022,Netherlands
+C. Gallagher,Conor Gallagher,79,22,86,35500000,CM,CM,England,https://cdn.sofifa.net/players/238/216/23_60.png,Chelsea,89000,72800000,2025,2017,England
+P. Estupiñán,Pervis Estupiñán,79,24,83,23500000,"LB,LWB",LB,Ecuador,https://cdn.sofifa.net/players/237/942/23_60.png,Brighton & Hove Albion,55000,46400000,2027,2022,-
+A. Ogbonna,Angelo Ogbonna,79,34,79,5500000,CB,CB,Italy,https://cdn.sofifa.net/players/183/855/23_60.png,West Ham United,66000,10500000,2023,2015,-
+Matheus Nunes,Matheus Luiz Nunes,79,23,86,35000000,CM,CAM,Portugal,https://cdn.sofifa.net/players/253/124/23_60.png,Wolverhampton Wanderers,73000,73500000,2027,2022,Portugal
+W. Fofana,Wesley Fofana,79,21,86,33000000,CB,CB,France,https://cdn.sofifa.net/players/248/695/23_60.png,Chelsea,67000,67700000,2028,2022,-
+M. Lanzini,Manuel Lanzini,79,29,79,17000000,"CAM,CM",CAM,Argentina,https://cdn.sofifa.net/players/188/988/23_60.png,West Ham United,75000,32299999,2023,2016,-
+Guaita,Vicente Guaita Panadero,79,35,79,1900000,GK,GK,Spain,https://cdn.sofifa.net/players/189/690/23_60.png,Crystal Palace,29000,3600000,2023,2018,-
+R. Bentancur,Rodrigo Bentancur,79,25,83,24500000,CM,CDM,Uruguay,https://cdn.sofifa.net/players/227/535/23_60.png,Tottenham Hotspur,85000,48400000,2026,2022,-
+O. Zinchenko,Oleksandr Zinchenko,79,25,82,21500000,LB,CM,Ukraine,https://cdn.sofifa.net/players/227/813/23_60.png,Arsenal,73000,42500000,2027,2022,Ukraine
+E. Konsa,Ezri Konsa,79,24,86,32500000,CB,CB,England,https://cdn.sofifa.net/players/227/678/23_60.png,Aston Villa,65000,68300000,2026,2019,-
+D. Sánchez,Davinson Sánchez,79,26,80,18000000,CB,CB,Colombia,https://cdn.sofifa.net/players/220/793/23_60.png,Tottenham Hotspur,81000,35600000,2024,2017,-
+M. Cash,Matty Cash,79,24,84,24500000,"RB,RWB",RWB,Poland,https://cdn.sofifa.net/players/227/174/23_60.png,Aston Villa,65000,48400000,2027,2020,Poland
+Pablo Fornals,Pablo Fornals Malla,79,26,81,21500000,"CAM,LM",CM,Spain,https://cdn.sofifa.net/players/226/456/23_60.png,West Ham United,72000,42500000,2024,2019,-
+D. van de Beek,Donny van de Beek,79,25,84,25500000,"CM,CDM,CAM",CAM,Netherlands,https://cdn.sofifa.net/players/221/363/23_60.png,Manchester United,105000,50400000,2025,2020,-
+B. White,Benjamin White,79,24,86,32500000,CB,CDM,England,https://cdn.sofifa.net/players/231/936/23_60.png,Arsenal,65000,68300000,2026,2021,-
+J. Evans,Jonny Evans,79,34,79,5500000,CB,CB,Northern Ireland,https://cdn.sofifa.net/players/169/588/23_60.png,Leicester City,76000,10500000,2023,2018,Northern Ireland
+T. Tomiyasu,Takehiro Tomiyasu,79,23,85,26000000,RB,CB,Japan,https://cdn.sofifa.net/players/232/938/23_60.png,Arsenal,65000,54600000,2026,2021,-
+J. Tarkowski,James Tarkowski,79,29,79,14500000,CB,CB,England,https://cdn.sofifa.net/players/202/695/23_60.png,Everton,45000,27600000,2026,2022,-
+C. Coady,Conor Coady,79,29,79,14500000,CB,CB,England,https://cdn.sofifa.net/players/202/048/23_60.png,Everton,80000,0,2023,2015,England
+L. Dunk,Lewis Dunk,79,30,79,14500000,CB,CB,England,https://cdn.sofifa.net/players/199/915/23_60.png,Brighton & Hove Albion,65000,27600000,2025,2010,-
+G. Xhaka,Granit Xhaka,79,29,79,15000000,"CDM,CM",CDM,Switzerland,https://cdn.sofifa.net/players/199/503/23_60.png,Arsenal,80000,28500000,2024,2016,-
+C. Wilson,Callum Wilson,79,30,79,17000000,ST,ST,England,https://cdn.sofifa.net/players/196/978/23_60.png,Newcastle United,95000,32299999,2024,2020,-
+D. Ings,Danny Ings,79,29,79,17500000,ST,ST,England,https://cdn.sofifa.net/players/195/859/23_60.png,Aston Villa,95000,33299999,2024,2021,-
+M. Antonio,Michail Antonio,79,32,79,14000000,ST,ST,Jamaica,https://cdn.sofifa.net/players/190/717/23_60.png,West Ham United,79000,26600000,2024,2015,-
+Adama Traoré,Adama Traoré Diarra,79,26,80,20500000,"RW,LW",RW,Spain,https://cdn.sofifa.net/players/213/956/23_60.png,Wolverhampton Wanderers,90000,40500000,2023,2018,-
+J. McGinn,John McGinn,79,27,80,20000000,"CM,CDM",CM,Scotland,https://cdn.sofifa.net/players/210/881/23_60.png,Aston Villa,83000,39500000,2025,2018,Scotland
+Jonny,Jonathan Castro Otto,79,28,79,16000000,"LWB,RWB",LWB,Spain,https://cdn.sofifa.net/players/210/455/23_60.png,Wolverhampton Wanderers,80000,30400000,2025,2019,-
+A. Doucouré,Abdoulaye Doucouré,79,29,79,17000000,"CM,CDM",CDM,Mali,https://cdn.sofifa.net/players/208/135/23_60.png,Everton,49000,32299999,2023,2020,-
+M. Keane,Michael Keane,79,29,80,16000000,CB,CB,England,https://cdn.sofifa.net/players/207/599/23_60.png,Everton,45000,31600000,2025,2017,-
+L. Trossard,Leandro Trossard,79,27,79,18500000,"LM,ST,CAM",LM,Belgium,https://cdn.sofifa.net/players/207/421/23_60.png,Brighton & Hove Albion,71000,35200000,2023,2019,Belgium
+B. Davies,Ben Davies,79,29,79,14500000,"CB,LWB",CB,Wales,https://cdn.sofifa.net/players/205/923/23_60.png,Tottenham Hotspur,85000,27600000,2025,2014,Wales
+J. Álvarez,Julián Álvarez,78,22,86,32000000,"ST,RW,LW",CAM,Argentina,https://cdn.sofifa.net/players/246/191/23_60.png,Manchester City,100000,65599999,2027,2022,Argentina
+Emerson Royal,Emerson Leite De Souza,78,23,82,18500000,"RWB,RB",RWB,Brazil,https://cdn.sofifa.net/players/247/204/23_60.png,Tottenham Hotspur,63000,36500000,2026,2021,-
+Gabriel Martinelli,Gabriel Teodoro Martinelli Silva,78,21,88,31500000,LM,RM,Brazil,https://cdn.sofifa.net/players/251/566/23_60.png,Arsenal,56000,66200000,2024,2019,-
+Pedro Neto,Pedro Lomba Neto,78,22,85,28500000,"LW,RW,ST",CAM,Portugal,https://cdn.sofifa.net/players/238/616/23_60.png,Wolverhampton Wanderers,72000,59900000,2027,2019,-
+S. Kalajdžić,Saša Kalajdžić,78,24,82,20500000,ST,ST,Austria,https://cdn.sofifa.net/players/239/901/23_60.png,Wolverhampton Wanderers,72000,40500000,2027,2022,-
+M. Guéhi,Marc Guéhi,78,21,86,29500000,CB,CB,England,https://cdn.sofifa.net/players/241/159/23_60.png,Crystal Palace,36000,62000000,2026,2021,-
+C. Dawson,Craig Dawson,78,32,78,9000000,CB,CB,England,https://cdn.sofifa.net/players/194/806/23_60.png,West Ham United,60000,17100000,2023,2021,-
+Mario Gaspar,Mario Gaspar Pérez Martínez,78,31,78,10000000,RB,RB,Spain,https://cdn.sofifa.net/players/192/789/23_60.png,Watford,43000,19000000,2023,2022,-
+B. Mee,Ben Mee,78,32,78,9000000,CB,CB,England,https://cdn.sofifa.net/players/189/682/23_60.png,Brentford,46000,17100000,2024,2022,-
+A. Cresswell,Aaron Cresswell,78,32,78,9500000,"LB,CB",LB,England,https://cdn.sofifa.net/players/189/615/23_60.png,West Ham United,60000,18100000,2023,2014,-
+P. Bamford,Patrick Bamford,78,28,78,14500000,ST,ST,England,https://cdn.sofifa.net/players/206/534/23_60.png,Leeds United,48000,27600000,2026,2018,-
+M. Cornet,Maxwel Cornet,78,25,81,18500000,"LM,CF,LB",ST,Côte d'Ivoire,https://cdn.sofifa.net/players/215/798/23_60.png,West Ham United,63000,36500000,2027,2022,-
+T. Strakosha,Thomas Strakosha,78,27,81,14000000,GK,GK,Albania,https://cdn.sofifa.net/players/212/151/23_60.png,Brentford,37000,27700000,2026,2022,-
+N. Aké,Nathan Aké,78,27,80,15000000,"CB,LB",CB,Netherlands,https://cdn.sofifa.net/players/208/920/23_60.png,Manchester City,95000,28900000,2025,2020,Netherlands
+J. Veltman,Joël Veltman,78,30,78,11500000,"CB,RB,RWB",CB,Netherlands,https://cdn.sofifa.net/players/208/004/23_60.png,Brighton & Hove Albion,58000,21900000,2023,2020,-
+J. Milner,James Milner,78,36,78,4400000,"CM,LB,RB",CDM,England,https://cdn.sofifa.net/players/138/412/23_60.png,Liverpool,69000,8100000,2023,2015,-
+O. Watkins,Ollie Watkins,78,26,81,18500000,"ST,LW",ST,England,https://cdn.sofifa.net/players/221/697/23_60.png,Aston Villa,82000,36500000,2025,2020,-
+T. Castagne,Timothy Castagne,78,26,80,16000000,"RB,LB",RWB,Belgium,https://cdn.sofifa.net/players/222/501/23_60.png,Leicester City,69000,31600000,2025,2020,Belgium
+D. Ćaleta-Car,Duje Ćaleta-Car,78,25,82,17500000,CB,CB,Croatia,https://cdn.sofifa.net/players/225/263/23_60.png,Southampton,48000,34600000,2026,2022,-
+Douglas Luiz,Douglas Luiz Soares de Paulo,78,24,83,19500000,"CDM,CM",CM,Brazil,https://cdn.sofifa.net/players/236/499/23_60.png,Aston Villa,59000,38500000,2023,2019,-
+S. Benrahma,Saïd Benrahma,78,26,78,15500000,"LM,CAM",LM,Algeria,https://cdn.sofifa.net/players/220/621/23_60.png,West Ham United,66000,29500000,2026,2021,-
+D. Praet,Dennis Praet,78,28,78,14000000,"CAM,CF,CM",CAM,Belgium,https://cdn.sofifa.net/players/199/652/23_60.png,Leicester City,79000,26600000,2024,2019,Belgium
+Daniel Podence,Daniel Castelo Podence,78,26,79,16500000,"LW,CAM,ST",CAM,Portugal,https://cdn.sofifa.net/players/226/766/23_60.png,Wolverhampton Wanderers,82000,32600000,2024,2020,-
+M. Almirón,Miguel Almirón,78,28,78,14000000,"RM,CM,CAM",RM,Paraguay,https://cdn.sofifa.net/players/230/977/23_60.png,Newcastle United,84000,26600000,2024,2019,-
+Ç. Söyüncü,Çağlar Söyüncü,78,26,80,15500000,CB,CB,Turkey,https://cdn.sofifa.net/players/232/119/23_60.png,Leicester City,69000,30600000,2023,2018,-
+Diogo Dalot,José Diogo Dalot Teixeira,78,23,84,21000000,RB,RB,Portugal,https://cdn.sofifa.net/players/234/574/23_60.png,Manchester United,78000,44100000,2023,2018,-
+C. Lenglet,Clément Lenglet,78,27,81,16000000,CB,CB,France,https://cdn.sofifa.net/players/220/440/23_60.png,Tottenham Hotspur,105000,0,2023,2018,-
+F. Guilbert,Frédéric Guilbert,78,27,79,15000000,"RWB,RB",RWB,France,https://cdn.sofifa.net/players/227/222/23_60.png,Aston Villa,69000,29600000,2023,2019,-
+K. Walker-Peters,Kyle Walker-Peters,78,25,83,19000000,"RB,LB",RB,England,https://cdn.sofifa.net/players/227/927/23_60.png,Southampton,48000,37500000,2025,2020,-
+T. Mings,Tyrone Mings,78,29,78,12000000,CB,CB,England,https://cdn.sofifa.net/players/212/419/23_60.png,Aston Villa,72000,22800000,2024,2019,-
+M. Doherty,Matt Doherty,77,30,77,9000000,"RWB,RB",RWB,Republic of Ireland,https://cdn.sofifa.net/players/201/417/23_60.png,Tottenham Hotspur,69000,17100000,2024,2020,Republic of Ireland
+A. Oxlade-Chamberlain,Alex Oxlade-Chamberlain,77,28,77,10500000,CM,CAM,England,https://cdn.sofifa.net/players/198/784/23_60.png,Liverpool,90000,19400000,2023,2017,-
+Rodrigo,Rodrigo Moreno Machado,77,31,77,8500000,"CAM,ST,CM",LW,Spain,https://cdn.sofifa.net/players/198/329/23_60.png,Leeds United,40000,16200000,2024,2020,-
+D. Burn,Dan Burn,77,30,77,8500000,"CB,LB",CB,England,https://cdn.sofifa.net/players/198/032/23_60.png,Newcastle United,69000,16200000,2024,2022,-
+L. Augustinsson,Ludwig Augustinsson,77,28,77,9500000,"LB,LM",LB,Sweden,https://cdn.sofifa.net/players/212/678/23_60.png,Aston Villa,26000,0,2023,2021,Sweden
+I. Toney,Ivan Toney,77,26,79,13000000,ST,ST,England,https://cdn.sofifa.net/players/212/228/23_60.png,Brentford,51000,25700000,2025,2020,-
+J. Harrison,Jack Harrison,77,25,80,14000000,"LM,RM",LM,England,https://cdn.sofifa.net/players/232/080/23_60.png,Leeds United,38000,27700000,2024,2021,-
+K. Tsimikas,Konstantinos Tsimikas,77,26,80,12500000,"LB,LWB",LB,Greece,https://cdn.sofifa.net/players/232/223/23_60.png,Liverpool,80000,24100000,2025,2020,-
+M. Turner,Matt Turner,77,28,80,9500000,GK,GK,United States,https://cdn.sofifa.net/players/233/267/23_60.png,Arsenal,56000,18800000,2024,2022,United States
+R. Kristensen,Rasmus Kristensen,77,24,82,15000000,RB,RWB,Denmark,https://cdn.sofifa.net/players/233/301/23_60.png,Leeds United,31000,29600000,2027,2022,Denmark
+W. Faes,Wout Faes,77,24,82,14500000,CB,CB,Belgium,https://cdn.sofifa.net/players/235/036/23_60.png,Leicester City,56000,28600000,2027,2022,-
+I. Sarr,Ismaïla Sarr,77,24,83,16500000,"RM,RW",RM,Senegal,https://cdn.sofifa.net/players/235/353/23_60.png,Watford,39000,34700000,2024,2019,-
+M. Targett,Matt Targett,77,26,78,11500000,LB,LB,England,https://cdn.sofifa.net/players/218/659/23_60.png,Newcastle United,69000,22700000,2026,2022,-
+Y. Mina,Yerry Mina,77,27,79,11000000,CB,CB,Colombia,https://cdn.sofifa.net/players/220/523/23_60.png,Everton,37000,21700000,2023,2018,-
+D. Gray,Demarai Gray,77,26,78,12500000,"LM,LW,CAM",RW,England,https://cdn.sofifa.net/players/220/633/23_60.png,Everton,40000,24700000,2024,2021,-
+J. Andersen,Joachim Andersen,77,26,80,12000000,CB,CDM,Denmark,https://cdn.sofifa.net/players/224/221/23_60.png,Crystal Palace,48000,23700000,2026,2021,Denmark
+P. Groß,Pascal Groß,77,31,77,8500000,"CM,RM",CM,Germany,https://cdn.sofifa.net/players/190/765/23_60.png,Brighton & Hove Albion,60000,16200000,2024,2017,-
+J. Shelvey,Jonjo Shelvey,77,30,77,10000000,"CM,CDM",CM,England,https://cdn.sofifa.net/players/189/165/23_60.png,Newcastle United,76000,19000000,2023,2016,-
+Bryan Gil,Bryan Gil Salvatierra,77,21,86,23500000,"LM,RM",CAM,Spain,https://cdn.sofifa.net/players/246/785/23_60.png,Tottenham Hotspur,56000,49400000,2026,2021,-
+M. Kilman,Max Kilman,77,25,83,14500000,CB,CB,England,https://cdn.sofifa.net/players/245/336/23_60.png,Wolverhampton Wanderers,62000,30500000,2026,2018,-
+Fábio Vieira,Fábio Daniel Ferreira Vieira,77,22,87,23500000,"CAM,RM",CAM,Portugal,https://cdn.sofifa.net/players/256/958/23_60.png,Arsenal,62000,49400000,2027,2022,-
+P. Daka,Patson Daka,77,23,83,17000000,ST,ST,Zambia,https://cdn.sofifa.net/players/241/202/23_60.png,Leicester City,68000,35700000,2026,2021,-
+O. Skipp,Oliver Skipp,77,21,84,20000000,"CDM,CM",CDM,England,https://cdn.sofifa.net/players/241/042/23_60.png,Tottenham Hotspur,49000,42000000,2024,2018,-
+D. Undav,Deniz Undav,77,25,80,14000000,ST,ST,Germany,https://cdn.sofifa.net/players/244/176/23_60.png,Brighton & Hove Albion,63000,27700000,2026,2022,-
+M. Salisu,Mohammed Salisu,77,23,85,22000000,CB,CB,Ghana,https://cdn.sofifa.net/players/244/915/23_60.png,Southampton,41000,46200000,2024,2020,-
+R. Holding,Rob Holding,77,26,79,11500000,CB,CB,England,https://cdn.sofifa.net/players/228/295/23_60.png,Arsenal,65000,22700000,2024,2016,-
+Robert Sánchez,Robert Lynch Sánchez,77,24,83,13500000,GK,GK,Spain,https://cdn.sofifa.net/players/228/789/23_60.png,Brighton & Hove Albion,37000,28400000,2025,2015,Spain
+F. Schär,Fabian Schär,77,30,77,8500000,CB,CB,Switzerland,https://cdn.sofifa.net/players/210/047/23_60.png,Newcastle United,69000,16200000,2024,2018,-
+Emerson,Emerson Palmieri dos Santos,77,27,77,10000000,LB,LB,Italy,https://cdn.sofifa.net/players/210/736/23_60.png,West Ham United,56000,19000000,2026,2022,Italy
+Hwang Hee Chan,Hee Chan Hwang,77,26,78,12500000,"LW,ST",LW,Korea Republic,https://cdn.sofifa.net/players/226/380/23_60.png,Wolverhampton Wanderers,77000,24700000,2026,2022,-
+K. Iheanacho,Kelechi Iheanacho,77,25,79,13500000,ST,CAM,Nigeria,https://cdn.sofifa.net/players/225/719/23_60.png,Leicester City,74000,26700000,2024,2017,-
+B. Godfrey,Ben Godfrey,77,24,85,22000000,"CB,LB",CB,England,https://cdn.sofifa.net/players/225/793/23_60.png,Everton,31000,46200000,2025,2020,-
+I. Meslier,Illan Meslier,77,22,84,18500000,GK,GK,France,https://cdn.sofifa.net/players/242/656/23_60.png,Leeds United,25000,38900000,2026,2020,-
+O. Edouard,Odsonne Edouard,76,24,82,12000000,"ST,LW",ST,France,https://cdn.sofifa.net/players/233/866/23_60.png,Crystal Palace,46000,25200000,2025,2021,-
+T. Adams,Tyler Adams,76,23,80,10000000,"CDM,CM,RWB",CDM,United States,https://cdn.sofifa.net/players/232/999/23_60.png,Leeds United,29000,19800000,2027,2022,United States
+J. Justin,James Justin,76,24,79,9500000,"LB,RB",RWB,England,https://cdn.sofifa.net/players/231/554/23_60.png,Leicester City,52000,18800000,2026,2019,-
+R. Perraud,Romain Perraud,76,24,80,10000000,LB,CM,France,https://cdn.sofifa.net/players/231/318/23_60.png,Southampton,38000,19800000,2025,2021,-
+T. Chalobah,Trevoh Chalobah,76,22,82,11000000,"CB,CDM,CM",CB,England,https://cdn.sofifa.net/players/230/918/23_60.png,Chelsea,64000,22600000,2026,2016,-
+Diego Llorente,Diego Javier Llorente Ríos,76,28,77,7000000,CB,CB,Spain,https://cdn.sofifa.net/players/212/602/23_60.png,Leeds United,36000,13800000,2024,2020,-
+D. Amartey,Daniel Amartey,76,27,77,7500000,"CB,CDM",CB,Ghana,https://cdn.sofifa.net/players/212/883/23_60.png,Leicester City,60000,14800000,2023,2016,Ghana
+R. Loftus-Cheek,Ruben Loftus-Cheek,76,26,79,9500000,"CM,RM",CAM,England,https://cdn.sofifa.net/players/213/666/23_60.png,Chelsea,81000,18300000,2024,2013,-
+Ayoze Pérez,Ayoze Pérez Gutiérrez,76,28,76,7500000,RW,RW,Spain,https://cdn.sofifa.net/players/215/590/23_60.png,Leicester City,75000,14300000,2023,2019,-
+A. Townsend,Andros Townsend,76,30,76,7000000,RM,RM,England,https://cdn.sofifa.net/players/194/932/23_60.png,Everton,37000,13300000,2023,2021,-
+J. Schlupp,Jeffrey Schlupp,76,29,76,7500000,"LM,CM",LM,Ghana,https://cdn.sofifa.net/players/200/759/23_60.png,Crystal Palace,51000,14300000,2023,2017,-
+M. Elyounoussi,Mohamed Elyounoussi,76,27,76,8000000,"LM,ST,RM",LM,Norway,https://cdn.sofifa.net/players/203/362/23_60.png,Southampton,49000,15200000,2023,2018,Norway
+S. Armstrong,Stuart Armstrong,76,30,76,7000000,"RM,CM",RM,Scotland,https://cdn.sofifa.net/players/202/282/23_60.png,Southampton,49000,13300000,2024,2018,Scotland
+C. Wood,Chris Wood,76,30,76,7500000,ST,ST,New Zealand,https://cdn.sofifa.net/players/192/123/23_60.png,Newcastle United,77000,14300000,2024,2022,New Zealand
+J. Bednarek,Jan Bednarek,76,26,80,9000000,CB,CB,Poland,https://cdn.sofifa.net/players/220/570/23_60.png,Aston Villa,44000,0,2023,2017,Poland
+David Raya,David Raya Martin,76,26,78,7000000,GK,GK,Spain,https://cdn.sofifa.net/players/220/901/23_60.png,Brentford,33000,13800000,2024,2019,-
+L. Cooper,Liam Cooper,76,30,76,6000000,CB,CB,Scotland,https://cdn.sofifa.net/players/189/456/23_60.png,Leeds United,34000,11400000,2024,2014,Scotland
+A. Westwood,Ashley Westwood,76,32,76,5000000,"CDM,CM",CDM,England,https://cdn.sofifa.net/players/189/280/23_60.png,Burnley,38000,9500000,2023,2017,-
+P. Struijk,Pascal Struijk,76,22,83,14000000,"CB,CDM",CB,Netherlands,https://cdn.sofifa.net/players/239/360/23_60.png,Leeds United,29000,29400000,2024,2018,-
+B. Soumaré,Boubakary Soumaré,76,23,81,10500000,"CDM,CM",CM,France,https://cdn.sofifa.net/players/239/817/23_60.png,Leicester City,52000,20700000,2026,2021,-
+A. Mac Allister,Alexis Mac Allister,76,23,82,12000000,"CAM,CM",CAM,Argentina,https://cdn.sofifa.net/players/239/837/23_60.png,Brighton & Hove Albion,49000,25200000,2023,2019,-
+L. Dendoncker,Leander Dendoncker,76,27,77,8500000,CM,CDM,Belgium,https://cdn.sofifa.net/players/212/501/23_60.png,Aston Villa,66000,16800000,2025,2022,Belgium
+E. Eze,Eberechi Eze,76,24,81,11500000,"CAM,CM,LM",CAM,England,https://cdn.sofifa.net/players/235/794/23_60.png,Crystal Palace,42000,22700000,2025,2020,-
+Marc Roca,Marc Roca Junqué,76,25,79,9000000,"CDM,CM",CM,Spain,https://cdn.sofifa.net/players/235/945/23_60.png,Leeds United,33000,17800000,2026,2022,-
+J. Mateta,Jean-Philippe Mateta,76,25,79,10000000,ST,ST,France,https://cdn.sofifa.net/players/236/461/23_60.png,Crystal Palace,51000,19800000,2026,2022,-
+R. Koch,Robin Koch,76,25,80,9500000,"CB,CDM",CB,Germany,https://cdn.sofifa.net/players/236/532/23_60.png,Leeds United,33000,18800000,2024,2020,-
+C. Adams,Ché Adams,76,25,78,9500000,ST,ST,Scotland,https://cdn.sofifa.net/players/226/093/23_60.png,Southampton,51000,18800000,2024,2019,Scotland
+T. Kehrer,Thilo Kehrer,76,25,79,9000000,"CB,RB",CB,Germany,https://cdn.sofifa.net/players/226/229/23_60.png,West Ham United,50000,17800000,2026,2022,Germany
+M. Olise,Michael Olise,76,20,86,16500000,"RW,RM,CAM",CAM,France,https://cdn.sofifa.net/players/247/827/23_60.png,Crystal Palace,40000,34700000,2026,2021,-
+V. Mykolenko,Vitaliy Mykolenko,76,23,83,14500000,"LB,LWB",LB,Ukraine,https://cdn.sofifa.net/players/244/380/23_60.png,Everton,29000,30500000,2026,2022,Ukraine
+T. Mitchell,Tyrick Mitchell,76,22,83,14500000,LB,LB,England,https://cdn.sofifa.net/players/240/947/23_60.png,Crystal Palace,38000,30500000,2025,2017,-
+M. Damsgaard,Mikkel Damsgaard,76,21,85,17000000,"LM,LW",CAM,Denmark,https://cdn.sofifa.net/players/241/508/23_60.png,Brentford,33000,35700000,2027,2022,Denmark
+C. Jones,Curtis Jones,76,21,84,17000000,CM,CM,England,https://cdn.sofifa.net/players/242/434/23_60.png,Liverpool,60000,34900000,2025,2018,-
+C. Doucouré,Cheick Doucouré,76,22,78,10000000,"CM,CDM",CDM,Mali,https://cdn.sofifa.net/players/242/619/23_60.png,Crystal Palace,42000,19800000,2026,2022,-
+R. Aït Nouri,Rayan Aït Nouri,76,21,86,16000000,"LWB,LB",LWB,France,https://cdn.sofifa.net/players/242/641/23_60.png,Wolverhampton Wanderers,43000,33600000,2026,2021,-
+E. Mwepu,Enock Mwepu,76,24,82,12000000,"CM,CAM,CDM",CM,Zambia,https://cdn.sofifa.net/players/243/231/23_60.png,Brighton & Hove Albion,49000,25200000,2025,2021,-
+D. McNeil,Dwight McNeil,76,22,81,11500000,"LM,RM",CAM,England,https://cdn.sofifa.net/players/243/282/23_60.png,Everton,33000,22700000,2027,2022,-
+C. Nørgaard,Christian Nørgaard,76,28,76,6500000,"CDM,CM",CDM,Denmark,https://cdn.sofifa.net/players/210/697/23_60.png,Brentford,42000,12400000,2025,2019,Denmark
+A. Webster,Adam Webster,76,27,79,8500000,CB,CB,England,https://cdn.sofifa.net/players/207/616/23_60.png,Brighton & Hove Albion,51000,16800000,2026,2019,-
+R. Fraser,Ryan Fraser,76,28,76,7500000,"RM,LM",RM,Scotland,https://cdn.sofifa.net/players/207/807/23_60.png,Newcastle United,74000,14300000,2025,2020,-
+M. Sanson,Morgan Sanson,76,27,76,8000000,CM,CM,France,https://cdn.sofifa.net/players/210/896/23_60.png,Aston Villa,66000,15200000,2025,2021,-
+M. Elneny,Mohamed Elneny,76,29,76,6500000,"CDM,CM",CDM,Egypt,https://cdn.sofifa.net/players/211/454/23_60.png,Arsenal,63000,12400000,2023,2016,-
+N. Maupay,Neal Maupay,76,25,78,9500000,ST,ST,France,https://cdn.sofifa.net/players/211/784/23_60.png,Everton,39000,18800000,2025,2022,-
+Diego Costa,Diego da Silva Costa,76,33,76,4800000,ST,ST,Spain,https://cdn.sofifa.net/players/179/844/23_60.png,Wolverhampton Wanderers,72000,9100000,2023,2022,-
+S. Coleman,Séamus Coleman,76,33,76,3900000,"RB,RWB",RB,Republic of Ireland,https://cdn.sofifa.net/players/180/216/23_60.png,Everton,34000,7400000,2023,2009,Republic of Ireland
+F. Forster,Fraser Forster,76,34,76,1300000,GK,GK,England,https://cdn.sofifa.net/players/172/203/23_60.png,Tottenham Hotspur,52000,2500000,2024,2022,-
+T. Krul,Tim Krul,76,34,76,1300000,GK,GK,Netherlands,https://cdn.sofifa.net/players/170/597/23_60.png,Norwich City,31000,2500000,2024,2018,Netherlands
+J. Lascelles,Jamaal Lascelles,75,28,76,5500000,CB,CB,England,https://cdn.sofifa.net/players/203/487/23_60.png,Newcastle United,64000,10900000,2024,2014,-
+T. Livramento,Tino Livramento,75,19,85,11500000,"RB,RWB",RB,England,https://cdn.sofifa.net/players/262/118/23_60.png,Southampton,22000,24200000,2026,2021,-
+C. Taylor,Charlie Taylor,75,28,75,5000000,LB,LB,England,https://cdn.sofifa.net/players/204/760/23_60.png,Burnley,38000,9500000,2024,2017,-
+K. Hause,Kortney Hause,75,26,77,6000000,CB,CB,England,https://cdn.sofifa.net/players/210/635/23_60.png,Watford,58000,0,2023,2019,-
+A. Hickey,Aaron Hickey,75,20,85,12000000,"RB,LB,LWB",RB,Scotland,https://cdn.sofifa.net/players/248/808/23_60.png,Brentford,28000,25200000,2026,2022,Scotland
+T. Lamptey,Tariq Lamptey,75,21,83,12000000,"RWB,RB",RWB,Ghana,https://cdn.sofifa.net/players/242/418/23_60.png,Brighton & Hove Albion,35000,25200000,2025,2020,-
+J. Ramsey,Jacob Ramsey,75,21,85,12500000,"CM,CAM",CAM,England,https://cdn.sofifa.net/players/246/923/23_60.png,Aston Villa,47000,26300000,2027,2017,-
+N. Collins,Nathan Collins,75,21,82,10500000,"CB,RB",CB,Republic of Ireland,https://cdn.sofifa.net/players/248/484/23_60.png,Wolverhampton Wanderers,41000,22100000,2027,2022,Republic of Ireland
+L. Thomas,Luke Thomas,75,21,80,8000000,"LB,LWB",LB,England,https://cdn.sofifa.net/players/254/470/23_60.png,Leicester City,41000,15800000,2024,2017,-
+A. Gordon,Anthony Gordon,75,21,84,12500000,"LM,RM",RM,England,https://cdn.sofifa.net/players/242/964/23_60.png,Everton,26000,26300000,2025,2017,-
+B. Mbeumo,Bryan Mbeumo,75,22,81,9000000,"RW,ST",CAM,Cameroon,https://cdn.sofifa.net/players/243/014/23_60.png,Brentford,40000,18900000,2026,2019,-
+D. Spence,Djed Spence,75,21,84,12000000,"RWB,RB",RWB,England,https://cdn.sofifa.net/players/243/702/23_60.png,Tottenham Hotspur,44000,25200000,2027,2022,-
+W. Hughes,Will Hughes,75,27,76,6500000,"CM,CDM",CM,England,https://cdn.sofifa.net/players/206/516/23_60.png,Crystal Palace,46000,12800000,2024,2021,-
+C. Chambers,Calum Chambers,75,27,76,5500000,"CB,RB,CDM",CB,England,https://cdn.sofifa.net/players/205/989/23_60.png,Aston Villa,58000,10900000,2025,2022,-
+A. Begović,Asmir Begović,75,35,75,625000,GK,GK,Bosnia and Herzegovina,https://cdn.sofifa.net/players/172/723/23_60.png,Everton,17000,1200000,2023,2021,-
+R. Sessegnon,Ryan Sessegnon,75,22,83,12000000,"LWB,LB",LM,England,https://cdn.sofifa.net/players/235/883/23_60.png,Tottenham Hotspur,53000,25200000,2025,2019,-
+Y. Wissa,Yoane Wissa,75,25,76,6500000,"LW,ST,LM",LW,Congo DR,https://cdn.sofifa.net/players/234/824/23_60.png,Brentford,44000,12800000,2025,2021,-
+J. Willock,Joe Willock,75,22,84,12500000,"CM,CAM",CAM,England,https://cdn.sofifa.net/players/237/329/23_60.png,Newcastle United,58000,26300000,2026,2021,-
+J. McArthur,James McArthur,75,34,75,1900000,"CDM,CM",CDM,Scotland,https://cdn.sofifa.net/players/171/972/23_60.png,Crystal Palace,42000,3600000,2023,2014,-
+R. Olsen,Robin Olsen,75,32,75,2800000,GK,GK,Sweden,https://cdn.sofifa.net/players/207/557/23_60.png,Aston Villa,47000,5300000,2024,2022,Sweden
+Junior Firpo,Héctor Junior Firpo Adamés,75,25,78,7000000,"LB,LWB",LWB,Spain,https://cdn.sofifa.net/players/241/184/23_60.png,Leeds United,31000,13800000,2025,2021,-
+K. Dewsbury-Hall,Kiernan Dewsbury-Hall,75,23,80,8500000,"CM,CDM",CM,England,https://cdn.sofifa.net/players/237/386/23_60.png,Leicester City,55000,16800000,2024,2016,-
+E. Pinnock,Ethan Pinnock,75,29,75,4700000,CB,CB,Jamaica,https://cdn.sofifa.net/players/238/717/23_60.png,Brentford,40000,8900000,2025,2019,-
+A. Sambi Lokonga,Albert Sambi Lokonga,75,22,83,12500000,"CM,CDM",CM,Belgium,https://cdn.sofifa.net/players/241/928/23_60.png,Arsenal,55000,26300000,2026,2021,-
+A. Broja,Armando Broja,75,20,85,12500000,ST,ST,Albania,https://cdn.sofifa.net/players/256/268/23_60.png,Chelsea,64000,25600000,2026,2020,-
+T. Davies,Tom Davies,75,24,78,7500000,"CM,CDM",CM,England,https://cdn.sofifa.net/players/230/005/23_60.png,Everton,31000,14800000,2023,2015,-
+J. Cullen,Josh Cullen,75,26,78,6500000,"CDM,CM",CDM,Republic of Ireland,https://cdn.sofifa.net/players/228/151/23_60.png,Burnley,36000,12800000,2025,2022,Republic of Ireland
+P. Jansson,Pontus Jansson,75,31,75,3800000,CB,CB,Sweden,https://cdn.sofifa.net/players/194/201/23_60.png,Brentford,38000,7200000,2023,2019,-
+T. Pukki,Teemu Pukki,75,32,75,4600000,ST,ST,Finland,https://cdn.sofifa.net/players/190/362/23_60.png,Norwich City,43000,8700000,2023,2018,Finland
+A. Iwobi,Alex Iwobi,75,26,76,6500000,"RM,RWB,CM",RM,Nigeria,https://cdn.sofifa.net/players/213/655/23_60.png,Everton,36000,12800000,2024,2019,-
+Cédric,Cédric Ricardo Alves Soares,75,30,75,4800000,RB,RB,Portugal,https://cdn.sofifa.net/players/201/118/23_60.png,Arsenal,58000,9100000,2024,2020,-
+A. McCarthy,Alex McCarthy,75,32,75,2800000,GK,GK,England,https://cdn.sofifa.net/players/189/324/23_60.png,Southampton,34000,5300000,2023,2016,-
+C. Roberts,Connor Roberts,75,26,76,6000000,"RB,RWB",RB,Wales,https://cdn.sofifa.net/players/225/147/23_60.png,Burnley,36000,11900000,2025,2021,Wales
+J. Ayew,Jordan Ayew,75,30,75,5500000,"RW,ST,RM",RW,Ghana,https://cdn.sofifa.net/players/197/756/23_60.png,Crystal Palace,50000,10500000,2023,2019,Ghana
+D. Ward,Danny Ward,75,29,75,3800000,GK,GK,Wales,https://cdn.sofifa.net/players/207/998/23_60.png,Leicester City,49000,7200000,2025,2018,Wales
+J. Aribo,Joe Aribo,75,25,78,7500000,CM,CAM,Nigeria,https://cdn.sofifa.net/players/231/044/23_60.png,Southampton,44000,14800000,2026,2022,-
+R. Henry,Rico Henry,75,24,78,7000000,"LWB,LB",LWB,England,https://cdn.sofifa.net/players/224/494/23_60.png,Brentford,33000,13800000,2026,2016,-
+J. Brownhill,Josh Brownhill,75,26,78,7500000,"CM,RM",CDM,England,https://cdn.sofifa.net/players/220/659/23_60.png,Burnley,40000,14800000,2024,2020,-
+A. Maitland-Niles,Ainsley Maitland-Niles,75,24,77,6500000,"RWB,RM,RB",RWB,England,https://cdn.sofifa.net/players/225/782/23_60.png,Southampton,49000,0,2023,2014,-
+S. Johnstone,Sam Johnstone,75,29,77,4700000,GK,GK,England,https://cdn.sofifa.net/players/206/075/23_60.png,Crystal Palace,36000,9300000,2026,2022,-
+N. Clyne,Nathaniel Clyne,74,31,74,3100000,RB,RB,England,https://cdn.sofifa.net/players/190/456/23_60.png,Crystal Palace,39000,5900000,2023,2020,-
+G. Hanley,Grant Hanley,74,30,74,3500000,CB,CB,Scotland,https://cdn.sofifa.net/players/198/904/23_60.png,Norwich City,34000,6700000,2025,2017,Scotland
+M. Djenepo,Moussa Djenepo,74,24,78,6000000,"LM,LWB,LB",RM,Mali,https://cdn.sofifa.net/players/237/560/23_60.png,Southampton,37000,11900000,2023,2019,-
+J. Cork,Jack Cork,74,33,74,2100000,"CDM,CM",CDM,England,https://cdn.sofifa.net/players/169/706/23_60.png,Burnley,34000,4000000,2024,2017,-
+V. Janelt,Vitaly Janelt,74,24,80,6500000,"CM,CDM",CDM,Germany,https://cdn.sofifa.net/players/235/167/23_60.png,Brentford,34000,13700000,2026,2020,-
+J. Moder,Jakub Moder,74,23,83,9500000,"CM,CDM,LM",CM,Poland,https://cdn.sofifa.net/players/239/778/23_60.png,Brighton & Hove Albion,43000,20000000,2025,2020,-
+Sergio Gómez,Sergio Gómez Martín,74,21,83,9000000,"LB,RM,LM",CAM,Spain,https://cdn.sofifa.net/players/241/811/23_60.png,Manchester City,53000,18500000,2026,2022,-
+A. Armstrong,Adam Armstrong,74,25,77,5500000,"ST,LW",ST,England,https://cdn.sofifa.net/players/221/841/23_60.png,Southampton,45000,10900000,2025,2021,-
+R. Bertrand,Ryan Bertrand,74,32,74,2900000,LB,LB,England,https://cdn.sofifa.net/players/169/705/23_60.png,Leicester City,53000,5500000,2023,2021,-
+L. Milivojević,Luka Milivojević,74,31,74,3000000,"CDM,CM",CDM,Serbia,https://cdn.sofifa.net/players/206/304/23_60.png,Crystal Palace,39000,5700000,2023,2017,-
+J. Beyer,Jordan Beyer,74,22,79,6000000,"CB,RB",CB,Germany,https://cdn.sofifa.net/players/242/660/23_60.png,Burnley,19000,0,2023,2018,-
+A. Elanga,Anthony Elanga,74,20,85,9500000,"RW,LW,RM",RW,Sweden,https://cdn.sofifa.net/players/257/470/23_60.png,Manchester United,63000,20000000,2026,2020,Sweden
+M. Aarons,Max Aarons,74,22,79,6000000,"RB,RWB",RWB,England,https://cdn.sofifa.net/players/240/060/23_60.png,Norwich City,29000,11900000,2024,2017,-
+M. Klich,Mateusz Klich,74,32,74,3300000,"CM,CDM",CM,Poland,https://cdn.sofifa.net/players/192/955/23_60.png,Leeds United,33000,6300000,2024,2017,Poland
+N. Mendy,Nampalys Mendy,74,30,74,3500000,"CDM,CM",CDM,Senegal,https://cdn.sofifa.net/players/198/861/23_60.png,Leicester City,53000,6700000,2023,2016,-
+I. Diallo,Ibrahima Diallo,74,23,82,9000000,"CDM,CM",CDM,France,https://cdn.sofifa.net/players/239/452/23_60.png,Southampton,34000,18900000,2024,2020,-
+M. Jensen,Mathias Jensen,74,26,77,5500000,"CM,CDM",CM,Denmark,https://cdn.sofifa.net/players/229/723/23_60.png,Brentford,39000,10900000,2023,2019,Denmark
+J. Riedewald,Jaïro Riedewald,74,25,75,4500000,"CDM,CM",CDM,Netherlands,https://cdn.sofifa.net/players/221/269/23_60.png,Crystal Palace,37000,8900000,2024,2017,-
+T. Cantwell,Todd Cantwell,74,24,77,6000000,"LM,CM,RM",CAM,England,https://cdn.sofifa.net/players/225/748/23_60.png,Norwich City,32000,11900000,2023,2016,-
+I. Louza,Imrân Louza,74,23,79,6500000,"CM,CDM",CM,Morocco,https://cdn.sofifa.net/players/242/794/23_60.png,Watford,32000,12800000,2026,2021,-
+S. Longstaff,Sean Longstaff,74,24,80,6500000,CM,CM,England,https://cdn.sofifa.net/players/237/161/23_60.png,Newcastle United,54000,13700000,2025,2015,-
+B. Aaronson,Brenden Aaronson,74,21,81,8500000,"CAM,CM",CAM,United States,https://cdn.sofifa.net/players/247/361/23_60.png,Leeds United,24000,17900000,2027,2022,United States
+S. Rondón,Salomón Rondón,74,32,74,3400000,ST,ST,Venezuela,https://cdn.sofifa.net/players/189/250/23_60.png,Everton,36000,6500000,2023,2021,-
+C. Richards,Chris Richards,74,22,82,9000000,CB,CB,United States,https://cdn.sofifa.net/players/250/954/23_60.png,Crystal Palace,34000,18900000,2025,2022,United States
+A. Young,Ashley Young,74,36,74,1400000,"LM,LB",CDM,England,https://cdn.sofifa.net/players/152/908/23_60.png,Aston Villa,43000,2700000,2023,2021,-
+K. Mitoma,Kaoru Mitoma,74,25,77,5500000,"LM,LW,LWB",CAM,Japan,https://cdn.sofifa.net/players/255/565/23_60.png,Brighton & Hove Albion,47000,10900000,2025,2021,-
+C. Kabasele,Christian Kabasele,74,31,74,2900000,CB,CB,Belgium,https://cdn.sofifa.net/players/190/324/23_60.png,Watford,34000,5500000,2023,2016,-
+J. Rodriguez,Jay Rodriguez,74,32,74,3400000,ST,ST,England,https://cdn.sofifa.net/players/169/792/23_60.png,Burnley,40000,6500000,2024,2019,-
+Manquillo,Javier Manquillo Gaitán,74,28,74,3800000,"RB,RWB",RB,Spain,https://cdn.sofifa.net/players/210/972/23_60.png,Newcastle United,60000,7200000,2024,2017,-
+J. Ward,Joel Ward,74,32,74,2900000,RB,RB,England,https://cdn.sofifa.net/players/186/392/23_60.png,Crystal Palace,39000,5500000,2023,2012,-
+E. Krafth,Emil Krafth,74,27,74,4099999,"RB,CB",RB,Sweden,https://cdn.sofifa.net/players/207/650/23_60.png,Newcastle United,57000,7800000,2024,2019,Sweden
+A. Tuanzebe,Axel Tuanzebe,74,24,78,5500000,CB,CB,England,https://cdn.sofifa.net/players/231/485/23_60.png,Manchester United,60000,10900000,2023,2015,-
+J. Tanganga,Japhet Tanganga,74,23,82,9000000,"RWB,RB,CB",CB,England,https://cdn.sofifa.net/players/236/600/23_60.png,Tottenham Hotspur,49000,18900000,2025,2017,-
+D. Randolph,Darren Randolph,73,35,73,350000,GK,GK,Republic of Ireland,https://cdn.sofifa.net/players/169/697/23_60.png,West Ham United,22000,665000,2023,2020,-
+M. Lowton,Matthew Lowton,73,33,73,1600000,RB,RB,England,https://cdn.sofifa.net/players/199/633/23_60.png,Burnley,31000,3000000,2023,2015,-
+Fábio Carvalho,Fábio Leandro Carvalho,73,19,86,7000000,"CAM,CM,RM",CAM,Portugal,https://cdn.sofifa.net/players/256/725/23_60.png,Liverpool,37000,17300000,2028,2022,-
+B. Williams,Brandon Williams,73,21,78,4400000,"LB,RB",RWB,England,https://cdn.sofifa.net/players/243/414/23_60.png,Manchester United,46000,8700000,2024,2018,-
+R. Nelson,Reiss Nelson,73,22,80,6000000,"RW,LW",RM,England,https://cdn.sofifa.net/players/231/448/23_60.png,Arsenal,51000,12600000,2023,2016,-
+A. Bella Kotchap,Armel Bella Kotchap,73,20,83,6000000,CB,CB,Germany,https://cdn.sofifa.net/players/247/497/23_60.png,Southampton,26000,12600000,2026,2022,-
+N. Phillips,Nathaniel Phillips,73,25,76,3600000,CB,CB,England,https://cdn.sofifa.net/players/240/926/23_60.png,Liverpool,57000,6900000,2025,2017,-
+T. Cleverley,Tom Cleverley,73,32,73,2400000,CM,CM,England,https://cdn.sofifa.net/players/189/725/23_60.png,Watford,34000,4600000,2023,2017,-
+M. Ritchie,Matt Ritchie,73,32,73,2400000,"RM,LB",RM,Scotland,https://cdn.sofifa.net/players/186/395/23_60.png,Newcastle United,57000,4600000,2023,2016,-
+J. Butland,Jack Butland,73,29,73,2100000,GK,GK,England,https://cdn.sofifa.net/players/203/042/23_60.png,Crystal Palace,31000,4000000,2023,2020,-
+P. Jones,Phil Jones,73,30,73,2500000,CB,CB,England,https://cdn.sofifa.net/players/194/957/23_60.png,Manchester United,64000,4800000,2023,2011,-
+H. Choudhury,Hamza Choudhury,73,24,76,3800000,"CDM,CM",CB,England,https://cdn.sofifa.net/players/228/332/23_60.png,Watford,42000,0,2023,2015,-
+T. Heaton,Tom Heaton,73,36,73,350000,GK,GK,England,https://cdn.sofifa.net/players/163/264/23_60.png,Manchester United,34000,665000,2023,2021,-
+P. Dummett,Paul Dummett,73,30,73,2600000,"LB,CB",LB,Wales,https://cdn.sofifa.net/players/204/355/23_60.png,Newcastle United,52000,4900000,2023,2010,-
+A. Forshaw,Adam Forshaw,73,30,73,2500000,"CDM,CM",CDM,England,https://cdn.sofifa.net/players/193/910/23_60.png,Leeds United,28000,4800000,2023,2018,-
+D. Iversen,Daniel Iversen,73,24,78,3700000,GK,GK,Denmark,https://cdn.sofifa.net/players/228/410/23_60.png,Leicester City,33000,7300000,2025,2016,-
+Rúben Vinagre,Rúben Nascimento Vinagre,73,23,81,6500000,"LWB,LB",LM,Portugal,https://cdn.sofifa.net/players/235/172/23_60.png,Everton,9000,0,2023,2022,-
+F. Onyeka,Frank Onyeka,73,24,78,4200000,"CDM,CM",CDM,Nigeria,https://cdn.sofifa.net/players/239/529/23_60.png,Brentford,28000,8300000,2026,2021,-
+D. Giannoulis,Dimitris Giannoulis,73,26,74,3300000,"LB,LWB",LB,Greece,https://cdn.sofifa.net/players/236/457/23_60.png,Norwich City,31000,6500000,2024,2021,-
+H. Elliott,Harvey Elliott,73,19,87,7000000,"CAM,CM,RW",CAM,England,https://cdn.sofifa.net/players/246/174/23_60.png,Liverpool,37000,17300000,2025,2019,-
+J. Murphy,Jacob Murphy,73,27,73,3200000,"RM,RWB",RM,England,https://cdn.sofifa.net/players/206/085/23_60.png,Newcastle United,57000,6100000,2027,2017,-
+B. Manuel,Benson Manuel,73,25,76,4000000,"RW,LW",CAM,Belgium,https://cdn.sofifa.net/players/222/724/23_60.png,Burnley,35000,7900000,2026,2022,-
+C. Kelleher,Caoimhin Kelleher,73,23,80,5000000,GK,GK,Republic of Ireland,https://cdn.sofifa.net/players/240/913/23_60.png,Liverpool,40000,10300000,2026,2017,Republic of Ireland
+J. Dasilva,Josh Dasilva,73,23,78,4600000,"CM,CAM",CAM,England,https://cdn.sofifa.net/players/231/445/23_60.png,Brentford,31000,9100000,2024,2018,-
+M. Okoye,Maduka Okoye,73,22,82,6000000,GK,GK,Nigeria,https://cdn.sofifa.net/players/257/288/23_60.png,Watford,21000,12600000,2027,2022,-
+E. Nketiah,Eddie Nketiah,73,23,80,6000000,ST,ST,England,https://cdn.sofifa.net/players/236/988/23_60.png,Arsenal,51000,12600000,2027,2016,-
+Zanka,Mathias Jørgensen,72,32,72,1500000,CB,CB,Denmark,https://cdn.sofifa.net/players/183/491/23_60.png,Brentford,29000,2900000,2023,2021,-
+A. Gunn,Angus Gunn,72,26,76,2500000,GK,GK,England,https://cdn.sofifa.net/players/216/325/23_60.png,Norwich City,22000,4900000,2025,2021,-
+Lyanco,Lyanco Neves Vojnovic,72,25,79,4300000,CB,CB,Brazil,https://cdn.sofifa.net/players/230/672/23_60.png,Southampton,30000,9000000,2025,2021,-
+Sergi Canós,Sergi Canós Tenés,72,25,74,2900000,"LW,RWB,LWB",CAM,Spain,https://cdn.sofifa.net/players/224/013/23_60.png,Brentford,33000,5700000,2023,2017,-
+K. Davis,Keinan Davis,72,24,77,3600000,ST,ST,England,https://cdn.sofifa.net/players/231/743/23_60.png,Watford,45000,0,2023,2015,-
+D. Bachmann,Daniel Bachmann,72,27,72,1800000,GK,GK,Austria,https://cdn.sofifa.net/players/209/532/23_60.png,Watford,22000,3400000,2024,2017,-
+J. Lewis,Jamal Lewis,72,24,77,3300000,"LB,LWB",LB,Northern Ireland,https://cdn.sofifa.net/players/231/292/23_60.png,Newcastle United,40000,6500000,2025,2020,Northern Ireland
+F. Sierralta,Francisco Sierralta,72,25,77,3100000,CB,CB,Chile,https://cdn.sofifa.net/players/228/681/23_60.png,Watford,26000,6100000,2023,2020,-
+L. Karius,Loris Karius,72,29,72,1600000,GK,GK,Germany,https://cdn.sofifa.net/players/203/775/23_60.png,Newcastle United,40000,3000000,2023,2022,-
+S. Byram,Sam Byram,72,28,72,2100000,"LB,RB",LB,England,https://cdn.sofifa.net/players/208/892/23_60.png,Norwich City,29000,4000000,2023,2019,-
+T. Walcott,Theo Walcott,72,33,72,1500000,RM,RM,England,https://cdn.sofifa.net/players/164/859/23_60.png,Southampton,35000,2900000,2023,2021,-
+S. Kalu,Samuel Kalu,72,24,75,3200000,"LM,RW",RM,Nigeria,https://cdn.sofifa.net/players/237/207/23_60.png,Watford,26000,6300000,2025,2022,-
+J. Gelhardt,Joe Gelhardt,72,20,87,5500000,"ST,CAM",CAM,England,https://cdn.sofifa.net/players/246/053/23_60.png,Leeds United,22000,13900000,2027,2020,-
+A. Barnes,Ashley Barnes,72,32,72,1900000,ST,ST,England,https://cdn.sofifa.net/players/186/905/23_60.png,Burnley,32000,3600000,2023,2014,-
+J. Garner,James Garner,72,21,82,5000000,"CDM,CM",CM,England,https://cdn.sofifa.net/players/243/657/23_60.png,Everton,18000,10500000,2026,2022,-
+A. Murić,Arijanet Murić,72,23,80,4500000,GK,GK,Kosovo,https://cdn.sofifa.net/players/233/164/23_60.png,Burnley,18000,9500000,2026,2022,-
+R. Manaj,Rey Manaj,72,25,76,3300000,ST,ST,Albania,https://cdn.sofifa.net/players/230/800/23_60.png,Watford,31000,6500000,2025,2022,-
+C. Cathcart,Craig Cathcart,72,33,72,1100000,CB,CB,Northern Ireland,https://cdn.sofifa.net/players/180/706/23_60.png,Watford,27000,2100000,2023,2014,Northern Ireland
+J. Tomkins,James Tomkins,72,33,72,1100000,CB,CB,England,https://cdn.sofifa.net/players/173/546/23_60.png,Crystal Palace,32000,2100000,2023,2016,-
+B. Gilmour,Billy Gilmour,72,21,82,5000000,"CM,CDM",CM,Scotland,https://cdn.sofifa.net/players/245/992/23_60.png,Brighton & Hove Albion,30000,10500000,2026,2022,Scotland
+K. Sema,Ken Sema,72,28,72,2400000,"LW,LM,LWB",LW,Sweden,https://cdn.sofifa.net/players/213/750/23_60.png,Watford,34000,4600000,2023,2018,-
+Adrián,Adrián San Miguel Castillo,72,35,72,250000,GK,GK,Spain,https://cdn.sofifa.net/players/194/911/23_60.png,Liverpool,28000,463000,2023,2019,-
+J. Guðmundsson,Jóhann Berg Guðmundsson,72,31,72,1900000,"RM,LM",RM,Iceland,https://cdn.sofifa.net/players/191/076/23_60.png,Burnley,30000,3600000,2023,2016,Iceland
+H. Dervişoğlu,Halil İbrahim Dervişoğlu,71,22,78,3800000,"ST,CF",CAM,Turkey,https://cdn.sofifa.net/players/250/807/23_60.png,Burnley,27000,0,2023,2020,-
+J. van Hecke,Jan Paul van Hecke,71,22,80,3900000,CB,CB,Netherlands,https://cdn.sofifa.net/players/258/908/23_60.png,Brighton & Hove Albion,28000,8199999,2023,2020,-
+P. Sarr,Pape Matar Sarr,71,19,82,4000000,CM,CM,Senegal,https://cdn.sofifa.net/players/259/868/23_60.png,Tottenham Hotspur,25000,8400000,2026,2021,-
+W. Troost-Ekong,William Troost-Ekong,71,28,71,1600000,CB,CB,Nigeria,https://cdn.sofifa.net/players/213/414/23_60.png,Watford,25000,3000000,2025,2020,-
+J. Steer,Jed Steer,71,29,71,1300000,GK,GK,England,https://cdn.sofifa.net/players/192/317/23_60.png,Aston Villa,33000,2500000,2023,2013,-
+A. Smithies,Alex Smithies,71,32,71,925000,GK,GK,England,https://cdn.sofifa.net/players/184/436/23_60.png,Leicester City,31000,1800000,2024,2022,-
+K. Dowell,Kieran Dowell,71,24,76,2800000,"CAM,RM",CAM,England,https://cdn.sofifa.net/players/226/401/23_60.png,Norwich City,23000,5500000,2023,2020,-
+Gabriel Sara,Gabriel Davi Gomes Sara,71,23,79,4200000,"CAM,CM",ST,Brazil,https://cdn.sofifa.net/players/270/571/23_60.png,Norwich City,23000,8800000,2026,2022,-
+S. Twine,Scott Twine,71,22,78,3800000,LW,CAM,England,https://cdn.sofifa.net/players/237/619/23_60.png,Burnley,25000,8000000,2026,2022,-
+M. Núñez,Marcelino Núñez,71,22,80,4200000,"CM,CAM",CM,Chile,https://cdn.sofifa.net/players/256/051/23_60.png,Norwich City,23000,8800000,2026,2022,-
+E. Kayembe,Edo Kayembe,71,24,79,3900000,"CDM,CM",CDM,Congo DR,https://cdn.sofifa.net/players/242/217/23_60.png,Watford,21000,8199999,2026,2022,-
+K. McLean,Kenny McLean,71,30,71,1800000,"CM,CDM",CM,Scotland,https://cdn.sofifa.net/players/201/368/23_60.png,Norwich City,26000,3400000,2023,2018,-
+K. Lewis-Potter,Keane Lewis-Potter,71,21,80,4200000,"LW,LM,ST",RM,England,https://cdn.sofifa.net/players/243/606/23_60.png,Brentford,23000,8800000,2028,2022,-
+G. Bazunu,Gavin Bazunu,70,20,85,3400000,GK,GK,Republic of Ireland,https://cdn.sofifa.net/players/243/585/23_60.png,Southampton,13000,8600000,2027,2022,Republic of Ireland
+J. Ngakia,Jeremy Ngakia,70,21,81,3400000,"RB,RWB",RB,England,https://cdn.sofifa.net/players/247/623/23_60.png,Watford,15000,7100000,2024,2020,-
+C. Archer,Cameron Archer,70,20,79,3500000,"ST,RW",ST,England,https://cdn.sofifa.net/players/258/930/23_60.png,Aston Villa,30000,7400000,2027,2020,-
+T. Harwood-Bellis,Taylor Harwood-Bellis,70,20,82,3600000,CB,CB,England,https://cdn.sofifa.net/players/252/793/23_60.png,Burnley,33000,0,2023,2019,-
+M. Caicedo,Moisés Caicedo,70,20,82,3800000,"CM,CDM",CDM,Ecuador,https://cdn.sofifa.net/players/256/079/23_60.png,Brighton & Hove Albion,23000,8000000,2025,2021,-
+D. Sinani,Danel Sinani,70,25,73,2100000,"RM,CAM",CAM,Luxembourg,https://cdn.sofifa.net/players/258/626/23_60.png,Norwich City,22000,4099999,2023,2020,-
+S. Baptiste,Shandon Baptiste,70,24,76,2500000,"CM,CDM",CM,Grenada,https://cdn.sofifa.net/players/240/697/23_60.png,Brentford,21000,5300000,2024,2020,-
+W. Caballero,Willy Caballero,70,40,70,180000,GK,GK,Argentina,https://cdn.sofifa.net/players/139/062/23_60.png,Southampton,12000,342000,2023,2021,-
+S. McCallum,Sam McCallum,70,21,80,3400000,"LB,LWB",LB,England,https://cdn.sofifa.net/players/246/155/23_60.png,Norwich City,15000,7100000,2024,2020,-
+O. Hernández,Onel Hernández,70,29,70,1600000,"LM,ST,LWB",LM,Cuba,https://cdn.sofifa.net/players/202/017/23_60.png,Norwich City,24000,3000000,2023,2018,-
+A. Omobamidele,Andrew Omobamidele,70,20,82,3600000,CB,CB,Republic of Ireland,https://cdn.sofifa.net/players/261/647/23_60.png,Norwich City,15000,7600000,2026,2019,-
+K. Long,Kevin Long,70,31,70,1100000,CB,CB,Republic of Ireland,https://cdn.sofifa.net/players/194/146/23_60.png,Burnley,21000,2100000,2023,2010,-
+F. Pellistri,Facundo Pellistri,70,20,82,3800000,RM,RM,Uruguay,https://cdn.sofifa.net/players/253/283/23_60.png,Manchester United,35000,8000000,2025,2020,-
+L. Colwill,Levi Colwill,70,19,84,3500000,CB,CB,England,https://cdn.sofifa.net/players/262/859/23_60.png,Brighton & Hove Albion,22000,0,2023,2020,-
+I. Maatsen,Ian Maatsen,70,20,82,3700000,"LB,LWB",LB,Netherlands,https://cdn.sofifa.net/players/248/465/23_60.png,Burnley,29000,0,2023,2019,-
+D. Churlinov,Darko Churlinov,70,21,79,3600000,"RM,ST,RWB",CAM,North Macedonia,https://cdn.sofifa.net/players/251/545/23_60.png,Burnley,17000,7600000,2026,2022,-
+F. Downes,Flynn Downes,70,23,76,2300000,"CDM,CM",CDM,England,https://cdn.sofifa.net/players/240/097/23_60.png,West Ham United,25000,4800000,2027,2022,-
+B. Gibson,Ben Gibson,70,29,70,1300000,CB,CB,England,https://cdn.sofifa.net/players/200/408/23_60.png,Norwich City,22000,2500000,2024,2021,-
+M. Bettinelli,Marcus Bettinelli,70,30,71,1200000,GK,GK,England,https://cdn.sofifa.net/players/204/246/23_60.png,Chelsea,33000,2300000,2023,2021,-
+S. Bastien,Samuel Bastien,70,25,73,2100000,CM,RM,Congo DR,https://cdn.sofifa.net/players/223/926/23_60.png,Burnley,22000,4099999,2025,2022,-
+D. Gosling,Dan Gosling,70,32,70,1300000,CM,CM,England,https://cdn.sofifa.net/players/184/749/23_60.png,Watford,23000,2500000,2023,2021,-
+V. Bayo,Vakoun Issouf Bayo,69,25,72,1900000,ST,ST,Côte d'Ivoire,https://cdn.sofifa.net/players/246/832/23_60.png,Watford,20000,3800000,2027,2022,-
+Toti Gomes,Tote António Gomes,69,23,76,2600000,CB,CB,Portugal,https://cdn.sofifa.net/players/258/607/23_60.png,Wolverhampton Wanderers,24000,5500000,2027,2020,-
+C. Summerville,Crysencio Summerville,69,20,82,3400000,"RM,LM",RM,Netherlands,https://cdn.sofifa.net/players/251/954/23_60.png,Leeds United,13000,8600000,2026,2020,-
+J. Sargent,Josh Sargent,69,22,74,2100000,"RM,ST",ST,United States,https://cdn.sofifa.net/players/242/075/23_60.png,Norwich City,17000,4099999,2025,2021,-
+J. Sørensen,Jacob Sørensen,69,24,73,1800000,"CDM,CM,LB",CDM,Denmark,https://cdn.sofifa.net/players/233/705/23_60.png,Norwich City,15000,3600000,2024,2020,-
+J. Hugill,Jordan Hugill,69,30,69,1400000,ST,ST,England,https://cdn.sofifa.net/players/220/862/23_60.png,Norwich City,21000,2700000,2023,2020,-
+W. Gnonto,Wilfried Gnonto,69,18,85,3600000,"ST,LM",CAM,Italy,https://cdn.sofifa.net/players/258/906/23_60.png,Leeds United,8000,9100000,2027,2022,-
+D. Bernard,Di'Shon Bernard,69,21,80,2900000,"CB,RB",CB,England,https://cdn.sofifa.net/players/253/034/23_60.png,Manchester United,26000,6100000,2025,2019,-
+M. Roerslev,Mads Roerslev,69,23,75,2100000,"RWB,RB,CB",RWB,Denmark,https://cdn.sofifa.net/players/238/157/23_60.png,Brentford,16000,4400000,2024,2019,-
+S. Mara,Sékou Mara,69,19,80,3000000,ST,ST,France,https://cdn.sofifa.net/players/257/612/23_60.png,Southampton,15000,6300000,2026,2022,-
+S. Ghoddos,Saman Ghoddos,68,28,68,1200000,"CAM,LM,RM",CAM,Iran,https://cdn.sofifa.net/players/231/949/23_60.png,Brentford,18000,2300000,2023,2021,-
+A. Idah,Adam Idah,68,21,75,2500000,ST,ST,Republic of Ireland,https://cdn.sofifa.net/players/244/288/23_60.png,Norwich City,14000,5300000,2024,2018,-
+N. Ferguson,Nathan Ferguson,68,21,75,2300000,"LB,RB",CB,England,https://cdn.sofifa.net/players/242/752/23_60.png,Crystal Palace,13000,4800000,2023,2020,-
+C. Drameh,Cody Drameh,68,20,81,2800000,"RWB,RB",RWB,England,https://cdn.sofifa.net/players/254/529/23_60.png,Leeds United,10000,7100000,2024,2020,-
+N. Tella,Nathan Tella,68,22,77,2700000,"LM,ST",RM,England,https://cdn.sofifa.net/players/237/328/23_60.png,Burnley,17000,0,2023,2017,-
+M. Šarkić,Matija Šarkić,68,24,74,1500000,GK,GK,Montenegro,https://cdn.sofifa.net/players/231/028/23_60.png,Wolverhampton Wanderers,16000,3200000,2025,2020,-
+A. Zaroury,Anass Zaroury,68,21,77,2700000,"ST,CF,LM",CAM,Belgium,https://cdn.sofifa.net/players/260/843/23_60.png,Burnley,14000,5700000,2026,2022,-
+C. Ronan,Connor Ronan,67,24,74,2000000,CM,CAM,Republic of Ireland,https://cdn.sofifa.net/players/228/408/23_60.png,Wolverhampton Wanderers,19000,4200000,2024,2015,-
+T. Dele-Bashiru,Tom Dele-Bashiru,67,22,74,2100000,"RM,CM,LM",CAM,Nigeria,https://cdn.sofifa.net/players/233/048/23_60.png,Watford,12000,4400000,2024,2019,-
+B. Hamer,Ben Hamer,67,34,67,170000,GK,GK,England,https://cdn.sofifa.net/players/170/008/23_60.png,Watford,10000,323000,2024,2022,-
+T. Mengi,Teden Mengi,67,20,79,2300000,CB,CB,England,https://cdn.sofifa.net/players/253/465/23_60.png,Manchester United,19000,4800000,2024,2019,-
+M. McGovern,Michael McGovern,67,37,67,110000,GK,GK,Northern Ireland,https://cdn.sofifa.net/players/163/201/23_60.png,Norwich City,7000,209000,2023,2016,-
+C. Goode,Charlie Goode,67,26,69,1100000,CB,CB,England,https://cdn.sofifa.net/players/228/997/23_60.png,Brentford,14000,2200000,2024,2020,-
+M. Gillespie,Mark Gillespie,67,30,67,675000,GK,GK,England,https://cdn.sofifa.net/players/198/039/23_60.png,Newcastle United,18000,1300000,2023,2020,-
+L. McNally,Luke McNally,67,22,75,2100000,CB,CB,Republic of Ireland,https://cdn.sofifa.net/players/247/395/23_60.png,Burnley,11000,4400000,2026,2022,-
+C. Palmer,Cole Palmer,67,20,85,2700000,"RW,CAM,CF",CAM,England,https://cdn.sofifa.net/players/257/534/23_60.png,Manchester City,26000,6700000,2026,2018,-
+B. Peacock-Farrell,Bailey Peacock-Farrell,67,25,73,1300000,GK,GK,Northern Ireland,https://cdn.sofifa.net/players/229/091/23_60.png,Burnley,10000,2700000,2024,2019,Northern Ireland
+S. Greenwood,Sam Greenwood,67,20,80,2500000,"CAM,CF,CM",CAM,England,https://cdn.sofifa.net/players/253/407/23_60.png,Leeds United,9000,6300000,2026,2020,-
+E. Anderson,Elliot Anderson,67,19,85,2600000,"CM,LW",CAM,Scotland,https://cdn.sofifa.net/players/254/243/23_60.png,Newcastle United,13000,6600000,2024,2019,-
+Léo Bonatini,Leonardo B. Lohner Maia,67,28,67,1000000,"ST,CAM",ST,Brazil,https://cdn.sofifa.net/players/220/685/23_60.png,Wolverhampton Wanderers,25000,1900000,2023,2018,-
+J. Sarmiento,Jeremy Sarmiento,66,20,80,2100000,"RM,LM",CAM,Ecuador,https://cdn.sofifa.net/players/263/522/23_60.png,Brighton & Hove Albion,12000,5300000,2026,2021,-
+N. Patterson,Nathan Patterson,66,20,81,2000000,"RB,RWB",RB,Scotland,https://cdn.sofifa.net/players/257/896/23_60.png,Everton,7000,5100000,2027,2022,Scotland
+C. Coventry,Conor Coventry,66,22,75,1900000,"CM,CDM",CM,Republic of Ireland,https://cdn.sofifa.net/players/240/863/23_60.png,West Ham United,14000,4000000,2023,2017,-
+M. Rogers,Morgan Rogers,66,19,82,2200000,"LW,RW",RM,England,https://cdn.sofifa.net/players/260/247/23_60.png,Manchester City,17000,5400000,2024,2019,-
+J. Rowe,Jonathan Rowe,65,19,78,1700000,"LM,RM,ST",CAM,England,https://cdn.sofifa.net/players/266/500/23_60.png,Norwich City,6000,4300000,2025,2021,-
+L. Hjelde,Leo Hjelde,65,18,82,1700000,"CB,LB",CB,Norway,https://cdn.sofifa.net/players/253/969/23_60.png,Leeds United,2000,4300000,2025,2021,-
+M. Pollock,Mattie Pollock,65,20,75,1500000,CB,CB,England,https://cdn.sofifa.net/players/246/695/23_60.png,Watford,7000,3200000,2026,2021,-
+J. Steele,Jason Steele,65,31,65,375000,GK,GK,England,https://cdn.sofifa.net/players/188/836/23_60.png,Brighton & Hove Albion,11000,713000,2023,2018,-
+K. Klaesson,Kristoffer Klaesson,65,21,78,1500000,GK,GK,Norway,https://cdn.sofifa.net/players/237/935/23_60.png,Leeds United,5000,3800000,2025,2021,-
+W. Norris,Will Norris,65,28,65,500000,GK,GK,England,https://cdn.sofifa.net/players/223/082/23_60.png,Burnley,8000,950000,2023,2020,-
+S. Carson,Scott Carson,65,36,65,80000,GK,GK,England,https://cdn.sofifa.net/players/157/804/23_60.png,Manchester City,11000,148000,2023,2021,-
+M. Ebiowei,Malcolm Ebiowei,65,18,78,1700000,RM,LM,England,https://cdn.sofifa.net/players/267/611/23_60.png,Crystal Palace,4000,4300000,2027,2022,-
+Alejandro Garnacho,Alejandro Garnacho Ferreyra,64,18,85,1900000,"LW,LM,RM",LW,Argentina,https://cdn.sofifa.net/players/268/438/23_60.png,Manchester United,9000,5500000,2023,2021,-
+S. Muñoz,Santiago Muñoz,64,19,78,1400000,"ST,CAM",ST,Mexico,https://cdn.sofifa.net/players/259/406/23_60.png,Newcastle United,11000,3500000,2022,2020,-
+K. Hein,Karl Hein,64,20,77,1200000,GK,GK,Estonia,https://cdn.sofifa.net/players/248/732/23_60.png,Arsenal,7000,3000000,2026,2019,-
+Y. Asprilla,Yáser Asprilla,64,18,77,1400000,"CAM,CM",CAM,Colombia,https://cdn.sofifa.net/players/271/464/23_60.png,Watford,3000,3500000,2026,2022,-
+C. Ramsay,Calvin Ramsay,64,18,81,1400000,"RB,RWB",RM,Scotland,https://cdn.sofifa.net/players/252/897/23_60.png,Liverpool,5000,3500000,2027,2022,-
+S. Shoretire,Shola Shoretire,64,18,83,1500000,"RM,CAM,CM",CAM,England,https://cdn.sofifa.net/players/260/910/23_60.png,Manchester United,7000,3800000,2024,2021,-
+O. Hutchinson,Omari Hutchinson,64,18,81,1500000,"CAM,RM",CAM,Jamaica,https://cdn.sofifa.net/players/260/145/23_60.png,Chelsea,7000,3700000,2025,2022,-
+J. Hungbo,Joseph Hungbo,64,22,76,1400000,"RM,LM",CAM,England,https://cdn.sofifa.net/players/245/020/23_60.png,Watford,8000,2900000,2024,2019,-
+C. Chukwuemeka,Carney Chukwuemeka,64,18,86,1900000,"CM,CAM,CF",CAM,England,https://cdn.sofifa.net/players/259/356/23_60.png,Chelsea,7000,5400000,2028,2022,-
+B. Austin,Brandon Austin,64,23,72,1100000,GK,GK,England,https://cdn.sofifa.net/players/236/568/23_60.png,Tottenham Hotspur,10000,2300000,2024,2016,-
+H. White,Harvey White,64,20,78,1300000,"CDM,CM",LM,England,https://cdn.sofifa.net/players/245/903/23_60.png,Tottenham Hotspur,11000,3300000,2024,2018,-
+J. Bowden,Jamie Bowden,63,20,75,1200000,"CM,CDM",CAM,Republic of Ireland,https://cdn.sofifa.net/players/245/907/23_60.png,Tottenham Hotspur,11000,2500000,2023,2018,-
+C. Egan-Riley,CJ Egan-Riley,63,19,77,1100000,"CB,RB",CB,England,https://cdn.sofifa.net/players/268/131/23_60.png,Burnley,4000,2800000,2025,2022,-
+E. Jakupović,Eldin Jakupović,63,37,63,50000,GK,GK,Switzerland,https://cdn.sofifa.net/players/052/326/23_60.png,Everton,4000,95000,2023,2022,-
+D. Costelloe,Dara Costelloe,63,19,74,1000000,"RM,ST",RM,Republic of Ireland,https://cdn.sofifa.net/players/271/018/23_60.png,Burnley,5000,2100000,2024,2020,-
+J. Enciso,Julio César Enciso,63,18,83,1300000,"RM,RW",RW,Paraguay,https://cdn.sofifa.net/players/255/434/23_60.png,Brighton & Hove Albion,4000,3800000,2026,2022,-
+H. Ashby,Harrison Ashby,62,20,77,925000,"RB,RWB",RB,Scotland,https://cdn.sofifa.net/players/258/805/23_60.png,West Ham United,7000,2300000,2023,2020,-
+A. Lonergan,Andy Lonergan,62,38,62,45000,GK,GK,England,https://cdn.sofifa.net/players/118/794/23_60.png,Everton,3000,86000,2023,2021,-
+C. Cîrjan,Cătălin Cîrjan,62,19,78,1000000,"CM,RM",CAM,Romania,https://cdn.sofifa.net/players/260/141/23_60.png,Arsenal,7000,2500000,2025,2019,-
+Z. Iqbal,Zidane Iqbal,62,19,80,1000000,"CM,CAM",CAM,Iraq,https://cdn.sofifa.net/players/265/788/23_60.png,Manchester United,9000,2500000,2025,2021,-
+K. Gordon,Kaide Gordon,62,17,84,1200000,"RW,LW",RW,England,https://cdn.sofifa.net/players/260/406/23_60.png,Liverpool,3000,3400000,2023,2021,-
+J. Cain,Jake Cain,62,20,72,875000,"CM,CDM",CAM,England,https://cdn.sofifa.net/players/253/482/23_60.png,Liverpool,11000,1800000,2023,2018,-
+T. Springett,Tony Springett,62,19,77,950000,"RM,LM",LM,Republic of Ireland,https://cdn.sofifa.net/players/268/909/23_60.png,Norwich City,4000,2400000,2025,2020,-
+L. Gibbs,Liam Gibbs,62,19,75,950000,CM,CAM,England,https://cdn.sofifa.net/players/256/620/23_60.png,Norwich City,4000,2400000,2025,2021,-
+S. Edozie,Samuel Edozie,62,19,82,1100000,LW,RM,England,https://cdn.sofifa.net/players/263/953/23_60.png,Southampton,6000,3200000,2027,2022,-
+Y. Yarmoliuk,Yehor Yarmoliuk,62,18,80,1000000,"CAM,CM,RM",RM,Ukraine,https://cdn.sofifa.net/players/270/608/23_60.png,Brentford,3000,2500000,2025,2022,-
+J. Tomkinson,Jonathan Tomkinson,62,20,74,900000,CB,CB,United States,https://cdn.sofifa.net/players/266/147/23_60.png,Norwich City,5000,1900000,2024,2020,-
+R. Lavia,Romeo Lavia,62,18,83,1200000,CDM,CB,Belgium,https://cdn.sofifa.net/players/263/620/23_60.png,Southampton,2000,3500000,2027,2022,-
+J. Ideho,Joel Ideho,61,18,78,825000,"LM,RM,CF",RM,Netherlands,https://cdn.sofifa.net/players/259/403/23_60.png,Arsenal,4000,2100000,2025,2020,-
+C. Savage,Charlie Savage,61,19,79,800000,"CDM,CM",CM,Wales,https://cdn.sofifa.net/players/265/789/23_60.png,Manchester United,7000,2000000,2025,2021,-
+S. Braybrooke,Sammy Braybrooke,61,18,79,825000,"CM,CDM",CAM,England,https://cdn.sofifa.net/players/267/868/23_60.png,Leicester City,4000,2100000,2024,2022,-
+A. Pressley,Aaron Pressley,61,20,74,800000,ST,ST,Scotland,https://cdn.sofifa.net/players/260/728/23_60.png,Brentford,6000,2000000,2023,2020,-
+D. Franchi,Denis Franchi,61,19,73,675000,GK,GK,Italy,https://cdn.sofifa.net/players/261/892/23_60.png,Burnley,2000,1400000,2025,2022,-
+R. Lewis,Rico Lewis,61,17,82,1000000,RB,RB,England,https://cdn.sofifa.net/players/271/574/23_60.png,Manchester City,650,2900000,2024,2022,-
+F. Clarke,Flynn Clarke,61,19,74,775000,CAM,CAM,England,https://cdn.sofifa.net/players/256/506/23_60.png,Norwich City,4000,2000000,2024,2021,-
+M. Bondswell,Matthew Bondswell,60,20,73,575000,LB,LB,England,https://cdn.sofifa.net/players/261/517/23_60.png,Newcastle United,7000,1500000,2023,2021,-
+L. Hall,Lewis Hall,60,17,80,675000,"CM,LWB,LB",CAM,England,https://cdn.sofifa.net/players/266/127/23_60.png,Chelsea,2000,1900000,2023,2021,-
+J. Brooking,Josh Brooking,60,19,77,600000,"CB,RWB",CB,England,https://cdn.sofifa.net/players/257/239/23_60.png,Chelsea,6000,1500000,2023,2020,-
+K. McAteer,Kasey McAteer,60,20,75,600000,RM,RM,England,https://cdn.sofifa.net/players/265/801/23_60.png,Leicester City,8000,1500000,2025,2020,-
+T. Maswanhise,Tawanda Maswanhise,60,19,76,650000,ST,RM,Zimbabwe,https://cdn.sofifa.net/players/271/693/23_60.png,Leicester City,7000,1600000,2023,2021,-
+M. Cox,Matthew Cox,60,19,77,575000,GK,GK,England,https://cdn.sofifa.net/players/256/488/23_60.png,Brentford,2000,1500000,2028,2021,-
+L. Matheson,Luke Matheson,60,19,76,600000,"RB,RWB",RB,England,https://cdn.sofifa.net/players/246/002/23_60.png,Wolverhampton Wanderers,5000,1500000,2023,2020,-
+A. Devine,Alfie Devine,60,17,83,775000,"CAM,LW",ST,England,https://cdn.sofifa.net/players/264/180/23_60.png,Tottenham Hotspur,1000,2200000,2024,2021,-
+A. Murphy,Alex Murphy,60,18,80,650000,"CB,LB",CB,Republic of Ireland,https://cdn.sofifa.net/players/270/617/23_60.png,Newcastle United,3000,1900000,2024,2022,-
+B. Knight,Ben Knight,60,20,74,600000,RW,CAM,England,https://cdn.sofifa.net/players/263/955/23_60.png,Manchester City,12000,1500000,2025,2019,-
+A. Tsoungui,Antef Tsoungui,60,19,77,600000,"CB,CDM",CB,Belgium,https://cdn.sofifa.net/players/264/121/23_60.png,Brighton & Hove Albion,4000,1500000,2023,2020,-
+O. Dodgson,Owen Dodgson,60,19,71,500000,"LB,LM",LB,England,https://cdn.sofifa.net/players/264/505/23_60.png,Burnley,3000,1100000,2025,2020,-
+C. Campbell,Chem Campbell,60,19,78,625000,"CAM,LW",CAM,Wales,https://cdn.sofifa.net/players/254/113/23_60.png,Wolverhampton Wanderers,6000,1600000,2023,2019,-
+Wanya Marçal,Wanya Marçal Madivádua,60,19,75,575000,RM,CAM,Portugal,https://cdn.sofifa.net/players/267/867/23_60.png,Leicester City,6000,1500000,2024,2022,-
+T. Suengchitthawon,Thanawat Suengchitthawon,60,22,70,550000,CAM,RM,Thailand,https://cdn.sofifa.net/players/259/324/23_60.png,Leicester City,9000,1200000,2023,2020,-
+Hugo Bueno,Hugo Bueno López,60,19,75,550000,LWB,LM,Spain,https://cdn.sofifa.net/players/261/224/23_60.png,Wolverhampton Wanderers,5000,1400000,2023,2021,-
+J. Norris,James Norris,60,19,77,600000,LB,LB,England,https://cdn.sofifa.net/players/264/561/23_60.png,Liverpool,6000,1500000,2024,2021,-
+E. Ferguson,Evan Ferguson,59,17,80,700000,"ST,CF",ST,Republic of Ireland,https://cdn.sofifa.net/players/259/608/23_60.png,Brighton & Hove Albion,2000,2000000,2023,2021,-
+O. Offiah,Odel Offiah,59,19,75,550000,"CB,RB",CB,England,https://cdn.sofifa.net/players/264/141/23_60.png,Brighton & Hove Albion,4000,1400000,2024,2021,-
+A. Gilbert,Alex Gilbert,59,20,70,500000,"LW,RW,CAM",LW,Republic of Ireland,https://cdn.sofifa.net/players/260/402/23_60.png,Brentford,6000,1100000,2023,2020,-
+Juan Larios,Juan Larios López,59,18,76,550000,LB,LWB,Spain,https://cdn.sofifa.net/players/271/669/23_60.png,Southampton,2000,1400000,2027,2022,-
+P. Ekwah Elimby,Pierre Ekwah Elimby,59,20,75,550000,"CDM,CM",CDM,France,https://cdn.sofifa.net/players/248/473/23_60.png,West Ham United,6000,1400000,2024,2021,-
+T. O'Reilly,Tommi O'Reilly,59,18,79,625000,"CM,CAM,RM",CAM,Republic of Ireland,https://cdn.sofifa.net/players/267/849/23_60.png,Aston Villa,4000,1800000,2025,2020,-
+A. Cozier-Duberry,Amario Cozier-Duberry,59,17,78,550000,"LM,CAM",LM,England,https://cdn.sofifa.net/players/271/743/23_60.png,Arsenal,1000,1400000,2024,2022,-
+E. Turns,Ed Turns,59,19,76,550000,CB,CB,Wales,https://cdn.sofifa.net/players/263/901/23_60.png,Brighton & Hove Albion,4000,1400000,2024,2020,-
+J. Turner-Cooke,Jay Turner-Cooke,59,18,76,575000,"CM,CAM,RM",CAM,England,https://cdn.sofifa.net/players/268/910/23_60.png,Newcastle United,4000,1500000,2023,2021,-
+M. Ndiweni,Michael Ndiweni,58,18,77,525000,ST,ST,England,https://cdn.sofifa.net/players/270/358/23_60.png,Newcastle United,5000,1300000,2024,2022,-
+L. Bogarde,Lamare Bogarde,58,18,78,525000,"CB,LB,CDM",CB,Netherlands,https://cdn.sofifa.net/players/264/209/23_60.png,Aston Villa,3000,1500000,2026,2021,-
+C. Webster,Charlie Webster,58,18,80,650000,"CM,CDM,CAM",CAM,England,https://cdn.sofifa.net/players/261/390/23_60.png,Chelsea,5000,1900000,2024,2021,-
+F. Marschall,Filip Marschall,58,19,73,425000,GK,GK,England,https://cdn.sofifa.net/players/268/583/23_60.png,Aston Villa,3000,1100000,2026,2021,-
+B. Lyons-Foster,Brooklyn Lyons-Foster,58,21,73,475000,"CB,CDM",CB,England,https://cdn.sofifa.net/players/243/848/23_60.png,Tottenham Hotspur,7000,1200000,2023,2018,-
+T. Adaramola,Tayo Adaramola,58,18,74,500000,LB,LB,Republic of Ireland,https://cdn.sofifa.net/players/267/476/23_60.png,Crystal Palace,2000,1300000,2023,2020,-
+J. Wilson-Esbrand,Joshua Wilson-Esbrand,58,19,76,500000,LB,LB,England,https://cdn.sofifa.net/players/264/681/23_60.png,Manchester City,7000,1200000,2027,2021,-
+S. Perkins,Sonny Perkins,58,18,76,525000,"ST,CAM",ST,England,https://cdn.sofifa.net/players/266/074/23_60.png,Leeds United,3000,1300000,2025,2022,-
+R. Trevitt,Ryan Trevitt,58,19,73,475000,"CAM,CM,LW",CAM,England,https://cdn.sofifa.net/players/262/569/23_60.png,Brentford,4000,1200000,2024,2021,-
+T. Crama,Tristan Crama,58,20,71,450000,CB,CB,France,https://cdn.sofifa.net/players/262/568/23_60.png,Brentford,5000,1100000,2024,2020,-
+J. Furlong,James Furlong,57,20,74,425000,LB,LB,Republic of Ireland,https://cdn.sofifa.net/players/248/569/23_60.png,Brighton & Hove Albion,6000,1100000,2023,2019,-
+J. Wells-Morrison,Jack Wells-Morrison,57,18,77,450000,CM,CM,England,https://cdn.sofifa.net/players/264/113/23_60.png,Crystal Palace,3000,1300000,2023,2021,-
+D. Barden,Daniel Barden,57,21,69,350000,GK,GK,Wales,https://cdn.sofifa.net/players/248/741/23_60.png,Norwich City,3000,735000,2024,2018,-
+D. Gyabi,Darko Gyabi,57,18,80,525000,CM,CAM,England,https://cdn.sofifa.net/players/270/209/23_60.png,Leeds United,2000,1500000,2026,2022,-
+S. Forde,Shaqai Forde,57,18,75,425000,ST,ST,England,https://cdn.sofifa.net/players/268/529/23_60.png,Watford,3000,1100000,2024,2021,-
+J. Feeney,Joshua Feeney,57,17,80,500000,CB,CB,England,https://cdn.sofifa.net/players/268/550/23_60.png,Aston Villa,500,1500000,2025,2021,-
+J. Baptiste,Jamal Baptiste,57,18,78,500000,"CB,RB",CB,England,https://cdn.sofifa.net/players/261/640/23_60.png,West Ham United,2000,1500000,2023,2020,-
+F. Potts,Freddie Potts,56,18,73,350000,"CDM,CM",CDM,England,https://cdn.sofifa.net/players/264/579/23_60.png,West Ham United,2000,884000,2024,2021,-
+D. Mubama,Divin Mubama,56,17,74,350000,ST,ST,England,https://cdn.sofifa.net/players/271/227/23_60.png,West Ham United,2000,884000,2024,2021,-
+S. Swinkels,Sil Swinkels,56,18,75,350000,CB,CB,Netherlands,https://cdn.sofifa.net/players/264/411/23_60.png,Aston Villa,3000,884000,2023,2021,-
+V. Akinwale,Victor Akinwale,56,17,76,400000,ST,ST,England,https://cdn.sofifa.net/players/271/192/23_60.png,Crystal Palace,2000,1200000,2023,2021,-
+L. Sousa,Lino Sousa,56,17,80,425000,LB,LB,England,https://cdn.sofifa.net/players/271/808/23_60.png,Arsenal,500,1200000,2024,2022,-
+C. Peupion,Cameron Peupion,56,19,73,375000,CAM,CAM,Australia,https://cdn.sofifa.net/players/264/124/23_60.png,Brighton & Hove Albion,5000,947000,2024,2021,-
+T. McGill,Tom McGill,55,22,67,275000,GK,GK,England,https://cdn.sofifa.net/players/243/588/23_60.png,Brighton & Hove Albion,5000,578000,2023,2018,-
+D. Lembikisa,Dexter Lembikisa,55,18,72,300000,"RWB,LWB",LM,Jamaica,https://cdn.sofifa.net/players/265/484/23_60.png,Wolverhampton Wanderers,2000,758000,2023,2021,-
+J. Hodge,Joe Hodge,55,19,72,325000,"CM,CDM",CAM,Republic of Ireland,https://cdn.sofifa.net/players/261/032/23_60.png,Wolverhampton Wanderers,6000,821000,2024,2021,-
+H. Birtwistle,Harry Birtwistle,55,18,72,300000,"RWB,RW",RWB,Singapore,https://cdn.sofifa.net/players/264/805/23_60.png,Wolverhampton Wanderers,2000,758000,2023,2021,-
+R. Welch,Reece Welch,55,18,75,325000,CB,CB,England,https://cdn.sofifa.net/players/268/632/23_60.png,Everton,1000,943000,2023,2021,-
+L. Brunt,Lewis Brunt,55,21,70,300000,"CB,LB",CDM,England,https://cdn.sofifa.net/players/246/392/23_60.png,Leicester City,6000,758000,2023,2021,-
+R. Finnigan,Ryan Finnigan,55,18,73,325000,CM,CAM,England,https://cdn.sofifa.net/players/260/929/23_60.png,Southampton,2000,821000,2023,2020,-
+L. Payne,Lewis Payne,54,18,66,240000,RB,RB,England,https://cdn.sofifa.net/players/268/788/23_60.png,Southampton,2000,504000,2024,2021,-
+V. Angelini,Vincent Angelini,54,18,73,240000,GK,GK,Scotland,https://cdn.sofifa.net/players/268/528/23_60.png,Watford,500,606000,2023,2021,-
+O. Zych,Oliwier Zych,54,18,73,240000,GK,GK,Poland,https://cdn.sofifa.net/players/271/411/23_60.png,Aston Villa,800,606000,2024,2020,-
+J. Hinchy,Jack Hinchy,53,19,68,220000,CM,CM,England,https://cdn.sofifa.net/players/271/603/23_60.png,Brighton & Hove Albion,5000,556000,2023,2021,-
+J. Whitworth,Joe Whitworth,53,18,76,275000,GK,GK,England,https://cdn.sofifa.net/players/271/191/23_60.png,Crystal Palace,600,798000,2023,2021,-
+O. Tipton,Oliver Tipton,52,18,67,170000,CB,CB,England,https://cdn.sofifa.net/players/265/527/23_60.png,Wolverhampton Wanderers,2000,429000,2023,2020,-
+M. Delyfer,Max Delyfer,52,17,69,190000,"CDM,CM",CDM,England,https://cdn.sofifa.net/players/271/747/23_60.png,Watford,500,480000,2024,2022,-
+I. Price,Isaac Price,50,18,73,150000,CM,CAM,Northern Ireland,https://cdn.sofifa.net/players/268/630/23_60.png,Everton,2000,435000,2023,2020,-
