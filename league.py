@@ -16,18 +16,19 @@ class League:
         self.avg_rating = total / len(self.teams)
 
     def order_table(self):
-        self.teams.sort(key=lambda x: x.avg, reverse=True)
+        self.teams.sort(key=lambda x: x.PTS, reverse=True)
         for pos, team in enumerate(self.teams, start=1):
             team.league_pos = pos
-    def display_table(self):
-        self.order_table()
-        headers = ['Name', 'P', 'W', 'D', 'L', 'GA', 'GF', 'GD', 'PTS']
-        data = []
-        for team in self.teams:
-            data.append([team.name, team.P, team.W, 
-                team.D, team.L, team.GA, team.GF, 
-                team.GD, team.PTS])
-        print(tabulate(data, headers=headers, tablefmt="grid"))
+
+    # def display_table(self):
+    #     self.order_table()
+    #     headers = ['Name', 'P', 'W', 'D', 'L', 'GA', 'GF', 'GD', 'PTS']
+    #     data = []
+    #     for team in self.teams:
+    #         data.append([team.name, team.P, team.W, 
+    #             team.D, team.L, team.GA, team.GF, 
+    #             team.GD, team.PTS])
+    #     print(tabulate(data, headers=headers, tablefmt="grid"))
 
 
 PREMIER_LEAGUE_CLUB_NAMES = [

@@ -1,27 +1,15 @@
 {% extends "layout.html" %}
 
-{% block title %}<title>FM24-Competitions</title>{% endblock %}
+{% block title %}<title>FM24-Competitions Stats</title>{% endblock %}
 
 {% block css %}
 <style>
-    .league-table{
-        width: 100%;
-    }
     table{
-        margin: auto;
-        width: 90%;
+        width: 100%;
     }
     table, th, td{
         border: 1px solid black;
         border-collapse: collapse;
-    }
-    .club-name{
-        width: 40%;
-        text-align: left;
-    }
-    .table-attr{
-        text-align: center;
-        width: 7.5%;
     }
     #league-pos{
         width: 2%;
@@ -30,7 +18,7 @@
 {% endblock %}
 
 {% block content %}
-<div class="filters">
+<div>
     <h2></h2>
     <select name="" id="" draggable="true">
         <option disabled value="Stats" default>Stats</option>
@@ -43,10 +31,10 @@
         </button>
     </a>
 </div>
-<div class="league-table">
+<div>
     <table>
         <tr>
-            <th colspan="10">{{league_name}}</th>
+            <th colspan="11">{{league_name}}</th>
         </tr>
         <tr>
             <th id="league-pos">Pos</th>
@@ -59,6 +47,11 @@
             <th class="table-attr">GF</th>
             <th class="table-attr">GD</th>
             <th class="table-attr">PTS</th>
+            <th>Win Rate</th>
+            <th>Draw Rate</th>
+            <th>Lose Rate</th>
+            <th>GA Rate</th>
+            <th>GF Rate</th>
         </tr>
         {% for club in clubs %}
         <tr>
@@ -76,8 +69,26 @@
             <td>{{club.GF}}</td>
             <td>{{club.GD}}</td>
             <td>{{club.PTS}}</td>
+            <td>{{club.win_rate}}</td>
+            <td>{{club.draw_rate}}</td>
+            <td>{{club.loss_rate}}</td>
+            <td>{{club.ga_rate}}</td>
+            <td>{{club.gf_rate}}</td>
         </tr>
         {% endfor %}
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>{{avarages.get('W')}}</td>
+            <td>{{avarages.get('D')}}</td>
+            <td>{{avarages.get('L')}}</td>
+            <td>{{avarages.get('GA')}}</td>
+            <td>{{avarages.get('GF')}}</td>
+            <td>{{avarages.get('GD')}}</td>
+            <td>{{avarages.get('PTS')}}</td>
+            <td></td>
+        </tr>
     </table>
 </div>
 <div>

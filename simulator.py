@@ -12,21 +12,23 @@ def round_off(x: float):
 
 def simulate_fixture(team1, team2):
     team1.P += 1; team2.P += 1
+
+    # get all the player avg's as a list
+
+    # generate a list of only 11 random players
+
+    # generate avarages of squads
     team1_avg = team1.avg
     team2_avg = team2.avg
-    match_mean = mean([team1_avg, team2_avg])
-    team1_rate = team1_avg/match_mean
-    team2_rate = team2_avg/match_mean
-    if team1_rate > team2_rate:
-        team1_score = team1_rate+random.randint(0, round_off(team1_rate))+(random.random()*team1_rate)
-        team2_score = team2_rate
-    elif team1_rate < team2_rate:
-        team2_score = team2_rate+random.randint(0, round_off(team2_rate))+(random.random()*team2_rate)
-        team1_score = team1_rate
-    else:
-        team1_score = team1_rate+random.randint(0, round_off(team1_rate))+(random.random()*team1_rate)
-        team2_score = team2_rate+random.randint(0, round_off(team2_rate))+(random.random()*team2_rate)
-    
+
+    match_total = team1_avg + team2_avg
+
+    team1_rate = team1_avg/match_total
+    team2_rate = team2_avg/match_total
+    print(team1_rate, team2_rate)
+    team1_score = team1_rate + (team1.W_rate-team2.W_rate) + (random.random() * (team1_rate-team2_rate))
+    team2_score = team2_rate + (team2.W_rate-team1.W_rate) + (random.random() * (team2_rate-team1_rate))
+        
     team1_score = round_off(team1_score)
     team2_score = round_off(team2_score)
     
@@ -39,5 +41,8 @@ def simulate_fixture(team1, team2):
 
     team1.GA += team1_score; team1.GF += team2_score
     team2.GA += team2_score; team2.GF += team1_score
+
+    team1.generate_rates()
+    team2.generate_rates()
 
     return (f"{team1.name} {team1_score}:{team2_score} {team2.name}")

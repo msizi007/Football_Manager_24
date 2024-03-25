@@ -56,6 +56,54 @@ def competition():
     return render_template('competition.html', 
         clubs=ALL_CLUBS, all_results=ALL_RESULTS, league_name="Premier League")
 
+@app.route("/competition/stats")
+def competition_stats():
+    PREMIER_LEAGUE.order_table()
+
+    total_w = 0
+    total_d = 0
+    total_l = 0
+    total_ga = 0
+    total_gf = 0
+    total_gd = 0
+    total_pts = 0
+    for club in ALL_CLUBS:
+        total_w += club.W
+        total_d += club.D
+        total_l += club.L
+        total_ga += club.GA
+        total_gf += club.GF
+        total_gd += club.GD
+        total_pts += club.PTS
+
+    win_avg = round(total_w / len(ALL_CLUBS), 2)
+    draw_avg = round(total_d / len(ALL_CLUBS), 2)
+    loss_avg = round(total_l / len(ALL_CLUBS), 2)
+    ga_avg = round(total_ga / len(ALL_CLUBS), 2)
+    gf_avg = round(total_gf / len(ALL_CLUBS), 2)
+    gd_avg = round(total_gd / len(ALL_CLUBS), 2)
+    pts_avg = round(total_pts / len(ALL_CLUBS), 2)
+
+    avarages = {
+        "W": win_avg,
+        "D": draw_avg,
+        "L": loss_avg,
+        "GA": ga_avg,
+        "GF": gf_avg,
+        "GD": gd_avg,
+        "PTS": pts_avg
+    }
+
+    for club in ALL_CLUBS:
+        club.win_rate = round(club.W / win_avg, 2)
+        club.draw_rate = round(club.D / draw_avg, 2)
+        club.loss_rate = round(club.L / loss_avg, 2)
+        club.ga_rate = round(club.GA / ga_avg, 2)
+        club.gf_rate = round(club.GF / gf_avg, 2)
+        club.pts_rate = round(club.PTS / pts_avg, 2)
+    return render_template('competition_stats.html', avarages=avarages,
+        clubs=ALL_CLUBS, all_results=ALL_RESULTS, league_name="Premier League")
+
 @app.route('/view_club/<id>')
 def view_club(id):
     for pos, club in enumerate(ALL_CLUBS, start=1):

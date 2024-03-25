@@ -12,7 +12,11 @@
     <h2>Overall: {{player.avg}}</h2>
     <h2>Potential: {{player.potential}}</h2>
     <h2>Position: {{player.position}}</h2>
-    <h2>Club: {{player.club}}</h2>
+    <h2>Club: 
+        <a href="/view_club/{{player.club._id}}" class="hover-link">
+            {{player.club.name}}
+        </a>
+    </h2>
 </div>
 {% endblock %}
 
