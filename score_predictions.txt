@@ -1,0 +1,31 @@
+# Statistics (Goal Predictions) - Poisson Distribution
+- Excell might be helpful for calculations of the distribution
+
+Calculation:
+
+Req:
+- number of goals scored (home)
+- number of goals conceded (home)
+- number of goals scored (away)
+- number of goals conceded (away)
+
+goals_scored_per_game (home) [rate] = umber of goals scored (home) / number of games played (home)
+ETC {4..}
+
+avaraga goals scored & concerded (home & away)
+
+calc attacking & defensive strength (home & away)
+attacking strength = goals_scored_per_game / avarage goals scored per game (league)
+ETC {4..}
+
+pull out attacking and defensive strength of fixture teams
+
+expected_goals(home_team) [floor]= attacking strength (home) * defensive strength (away) *
+     avarage goals scored per game (home)
+expected_goals(home_team) [floor]= attacking strength (away) * defensive strength (home) *
+     avarage goals scored per game (away)
+
+
+
+
+
