@@ -25,6 +25,7 @@
 
 {% block content %}
 <br><br>
+<h1>Under Development (fixes in Version: 0.0.3)</h1>
 <div>
     <table>
         <tr>
@@ -32,7 +33,7 @@
         </tr>
         <tr id="row-1">
             <td></td>
-            <td>ST</td>
+            {{ (club.squad|selectattr('position', 'eq', 'ST')|first).name}}
             <td></td>
             <td>ST</td>
             <td></td>
@@ -122,6 +123,66 @@
             <td></td>
         </tr>
     </table>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <th colspan="5">Full Formation</th>
+        </tr>
+        <tr id="row-1">
+            <td>LW</td>
+            <td>{% for player in club.squad if player.position == 'LW' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'LST' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'ST' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'RST' %}{{ player.name }}{% endfor %}</td>
+        </tr>
+        <tr id="row-2">
+            <td>LIW</td>
+            <td>{% for player in club.squad if player.position == 'LIW' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'LCAM' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'CAM' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'RCAM' %}{{ player.name }}{% endfor %}</td>
+        </tr>
+        <tr id="row-3">
+            <td>ILB</td>
+            <td>{% for player in club.squad if player.position == 'ILB' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'LCM' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'CM' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'RCM' %}{{ player.name }}{% endfor %}</td>
+        </tr>
+        <tr id="row-4">
+            <td>LB</td>
+            <td>{% for player in club.squad if player.position == 'LB' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'LCDM' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'CDM' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'RCDM' %}{{ player.name }}{% endfor %}</td>
+        </tr>
+        <tr id="row-5">
+            <td>LFB</td>
+            <td>{% for player in club.squad if player.position == 'LFB' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'LCB' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'CB' %}{{ player.name }}{% endfor %}</td>
+            <td>{% for player in club.squad if player.position == 'RCB' %}{{ player.name }}{% endfor %}</td>
+        </tr>
+        <tr id="row-6">
+            <td></td>
+            <td></td>
+            <td>{% for player in club.squad if player.position == 'GK' %}{{ player.name }}{% endfor %}</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+
+<div>
+    {% for player in club.squad %}
+    <div>{{ player.known_as }}</div>
+    <hr>
+    {% if player.position in ['CB', 'LB', 'RB'] %}
+        <div>{{ player.position }}</div><hr>
+    {% endif %}
+    {% endfor %}
 </div>
 {% endblock %}
 

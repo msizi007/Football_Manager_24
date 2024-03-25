@@ -1,6 +1,7 @@
 from flask import Flask, render_template, redirect, url_for
 from data import ALL_RESULTS, fixtures, ALL_CLUBS, ALL_PLAYERS, PREMIER_LEAGUE
-import numpy as np
+from numpy import zeros
+import user
 
 app = Flask(__name__)
 
@@ -14,8 +15,8 @@ def inbox():
 
 @app.route('/squad')
 def squad():
-    rows =np.zeros((9, 9))
-    return render_template('squad.html', rows=rows)
+    rows =zeros((9, 9))
+    return render_template('squad.html', rows=rows, club=user.CLUB)
 
 @app.route('/view_player/<id>')
 def view_player(id):
