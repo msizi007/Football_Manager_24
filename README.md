@@ -2,6 +2,16 @@
 This is a web clone of a Football Manager 24 game.. but this one runs on as a website on localhost.
 FM24 LINK: @(https://www.footballmanager.com/games/football-manager-2024)
 
+# How To Run Project
+1. **NOTE**: **Project has a Lisence which must be followed**
+2. Find a way to have a project (download zip/ clone project / open codespace). whatever you find best for you.
+3. Activate a virtual environment (git/gitbash recommanded) type **"source venv/bin/activate"**.
+4. after activating the venv then type **"python main.py"** and follow the link provided to view flask web project.
+
+# Contributions
+- Check the contributions file (NOT YET AVAILABLE)
+- code must be documented very well when before and during PR.
+
 # Game Options
 1. Home
 2. Inbox
