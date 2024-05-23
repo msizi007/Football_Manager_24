@@ -4,6 +4,8 @@ class League:
         self.name = name
         self.teams = teams
         self.avg_rating = self.calc_avarage_rating()
+        self.avg_GF = 0
+        self.avg_GA = 0
 
         # set every club's league to this league
         for team in self.teams:
@@ -16,19 +18,14 @@ class League:
         self.avg_rating = total / len(self.teams)
 
     def order_table(self):
+        self._calc_avgs()
         self.teams.sort(key=lambda x: x.PTS, reverse=True)
         for pos, team in enumerate(self.teams, start=1):
             team.league_pos = pos
 
-    # def display_table(self):
-    #     self.order_table()
-    #     headers = ['Name', 'P', 'W', 'D', 'L', 'GA', 'GF', 'GD', 'PTS']
-    #     data = []
-    #     for team in self.teams:
-    #         data.append([team.name, team.P, team.W, 
-    #             team.D, team.L, team.GA, team.GF, 
-    #             team.GD, team.PTS])
-    #     print(tabulate(data, headers=headers, tablefmt="grid"))
+    def _calc_avgs(self):    # calc averages
+        self.avg_GF = sum([club.GF for club in self.teams]) / len(self.teams)
+        self.avg_GD = sum([club.GD for club in self.teams]) / len(self.teams)
 
 
 PREMIER_LEAGUE_CLUB_NAMES = [

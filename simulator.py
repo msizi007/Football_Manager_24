@@ -26,8 +26,8 @@ def simulate_fixture(team1, team2):
     team1_rate = team1_avg/match_total
     team2_rate = team2_avg/match_total
     print(team1_rate, team2_rate)
-    team1_score = team1_rate + (team1.W_rate-team2.W_rate) + (random.random() * (team1_rate-team2_rate))
-    team2_score = team2_rate + (team2.W_rate-team1.W_rate) + (random.random() * (team2_rate-team1_rate))
+    team1_score = team1_rate +  (team1_rate-team2_rate)
+    team2_score = team2_rate + (random.random() * (team2_rate-team1_rate))
         
     team1_score = round_off(team1_score)
     team2_score = round_off(team2_score)
@@ -42,7 +42,7 @@ def simulate_fixture(team1, team2):
     team1.GA += team1_score; team1.GF += team2_score
     team2.GA += team2_score; team2.GF += team1_score
 
-    team1.generate_rates()
-    team2.generate_rates()
+    # team1.generate_rates()
+    # team2.generate_rates()
 
     return (f"{team1.name} {team1_score}:{team2_score} {team2.name}")
